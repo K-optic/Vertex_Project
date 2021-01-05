@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Tutorial 0: Installation"
+---
+
+To run VERTEX, you will need [Matlab](https://uk.mathworks.com/) version 2008a or later* and the VERTEX code. You can download VERTEX from the [download page](http://vertexsimulator.org/downloads/). After downloading, simply extract the zipped folder ‘vertex’ to where you would like to keep the vertex code on your machine.
+
+To be able to run VERTEX simulations, you will first need to add the vertex folder to your Matlab path. You can do this from within the Matlab graphical interface by navigating to where you unzipped the vertex folder in the “Current Folder” pane, right-clicking on the vertex folder, selecting, Add to Path -> Selected Folders and Subfolders:
+
+![AddToPath_img](https://i.imgur.com/ZWQflXP.jpg)
+
+Alternatively, you can add the vertex folder and subfolders to Matlab’s path using the following code:
+
+addpath(genpath('/path/to/vertex'))
+where you should replace /path/to/vertex with the location of the vertex folder on your machine.
+
+Once you’ve added the VERTEX folder to Matlab’s path, you can use VERTEX to run simulations. VERTEX includes a help system that is introduced in the next tutorial.
+
+Optional: compile MEX files
+
+Matlab can interface with code written in other languages by using its [MEX interface](https://uk.mathworks.com/help/matlab/matlab_external/choosing-mex-applications.html;jsessionid=520a20ae8bbc4766a4362d0ca344). This can be useful for improving performance of functions that run slowly when written as Matlab code. Currently, VERTEX does not require you to compile any MEX files. Future releases may include MEX files that improve simulation performance, but we will always provide plain Matlab code versions too for users that have trouble compiling the MEX files.
+
+The current version of VERTEX does come with one MEX source file that you can compile optionally. It is only required if you want to create models where a single presynaptic neuron can make multiple connections to a single postsynaptic neuron. If you haven’t compiled this file, then VERTEX will only be able to make connections using its default behaviour: allowing a maximum of one connection from a presynaptic neuron to a postsynaptic neuron.
+
+To compile this MEX file, navigate to the vertex_mex folder inside the VERTEX simulator’s main folder and run the following command:
+
+mex('multiSynapse.cpp')
+
+where you should replace /path/to/vertex with the location of the vertex folder on your machine. Compiling this MEX file requires Matlab to be set up with a suitable C++ compiler; for details, see the [Mathworks MEX-file documentation](https://uk.mathworks.com/help/matlab/call-mex-files-1.html).
+
+Note 2015-11-21: if you are using Matlab on OSX and Matlab can’t find a suitable compiler after you have updated Xcode, the fix [here](https://uk.mathworks.com/matlabcentral/answers/246507-why-can-t-mex-find-a-supported-compiler-in-matlab-r2015b-after-i-upgraded-to-xcode-7-0) may help.
+
+The next tutorial will get you started creating models and running simulations with VERTEX. If you have experienced any problems when trying to run this tutorial, or if you have any suggestions for improvements, please contact us using the [contact form](http://vertexsimulator.org/contact/).
+
+*. VERTEX makes use of Matlab’s object-oriented programming features, which were introduced in Matlab 2008a. This means that, unfortunately, VERTEX will not work with earlier versions of Matlab, or with [Octave](http://www.gnu.org/software/octave/). VERTEX has been tested with Matlab 2010b and later; running it with older versions is not guaranteed to work.
