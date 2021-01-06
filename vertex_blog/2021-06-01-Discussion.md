@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "FAQ"
-permalink: /faq/
+title: "Discussion"
+permalink: /discussion/
 ---
 
 [Discussion](https://groups.google.com/g/vertexsupport)
