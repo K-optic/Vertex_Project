@@ -1,41 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-05T10:23:12-06:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to the Vertex blog!</title><link href="/jekyll/update/2021/01/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to the Vertex blog!" /><published>2021-01-01T13:15:36-06:00</published><updated>2021-01-01T13:15:36-06:00</updated><id>/jekyll/update/2021/01/01/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/01/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Tutorial 0: Installation</title><link href="/2021/01/01/my-first-blog-post.html" rel="alternate" type="text/html" title="Tutorial 0: Installation" /><published>2021-01-01T00:00:00-06:00</published><updated>2021-01-01T00:00:00-06:00</updated><id>/2021/01/01/my-first-blog-post</id><content type="html" xml:base="/2021/01/01/my-first-blog-post.html">&lt;p&gt;To run VERTEX, you will need &lt;a href=&quot;https://uk.mathworks.com/&quot;&gt;Matlab&lt;/a&gt; version 2008a or later* and the VERTEX code. You can download VERTEX from the &lt;a href=&quot;http://vertexsimulator.org/downloads/&quot;&gt;download page&lt;/a&gt;. After downloading, simply extract the zipped folder ‘vertex’ to where you would like to keep the vertex code on your machine.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-06T13:47:50-06:00</updated><id>/feed.xml</id><title type="html">VERTEX</title><subtitle>Virtual Electrode Recording Tool for EXtracellular potentials</subtitle><entry><title type="html">Tutorial 0: Installation</title><link href="/tutorial-0/" rel="alternate" type="text/html" title="Tutorial 0: Installation" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial0</id><content type="html" xml:base="/tutorial-0/">&lt;p&gt;To run VERTEX, you will need &lt;a href=&quot;https://uk.mathworks.com/&quot;&gt;Matlab&lt;/a&gt; version 2008a or later* and the VERTEX code. You can download VERTEX from the &lt;a href=&quot;http://vertexsimulator.org/downloads/&quot;&gt;download page&lt;/a&gt;. After downloading, simply extract the zipped folder ‘vertex’ to where you would like to keep the vertex code on your machine.&lt;/p&gt;
 
 &lt;p&gt;To be able to run VERTEX simulations, you will first need to add the vertex folder to your Matlab path. You can do this from within the Matlab graphical interface by navigating to where you unzipped the vertex folder in the “Current Folder” pane, right-clicking on the vertex folder, selecting, Add to Path -&amp;gt; Selected Folders and Subfolders:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ZWQflXP.jpg&quot; alt=&quot;AddToPath_img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Alternatively, you can add the vertex folder and subfolders to Matlab’s path using the following code:&lt;/p&gt;
-
-&lt;p&gt;addpath(genpath(‘/path/to/vertex’))
-where you should replace /path/to/vertex with the location of the vertex folder on your machine.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;addpath(genpath('/path/to/vertex'))
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;where you should replace &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/path/to/vertex&lt;/code&gt; with the location of the vertex folder on your machine.&lt;/p&gt;
 
 &lt;p&gt;Once you’ve added the VERTEX folder to Matlab’s path, you can use VERTEX to run simulations. VERTEX includes a help system that is introduced in the next tutorial.&lt;/p&gt;
 
-&lt;p&gt;Optional: compile MEX files&lt;/p&gt;
+&lt;p&gt;##Optional: compile MEX files&lt;/p&gt;
 
 &lt;p&gt;Matlab can interface with code written in other languages by using its &lt;a href=&quot;https://uk.mathworks.com/help/matlab/matlab_external/choosing-mex-applications.html;jsessionid=520a20ae8bbc4766a4362d0ca344&quot;&gt;MEX interface&lt;/a&gt;. This can be useful for improving performance of functions that run slowly when written as Matlab code. Currently, VERTEX does not require you to compile any MEX files. Future releases may include MEX files that improve simulation performance, but we will always provide plain Matlab code versions too for users that have trouble compiling the MEX files.&lt;/p&gt;
 
 &lt;p&gt;The current version of VERTEX does come with one MEX source file that you can compile optionally. It is only required if you want to create models where a single presynaptic neuron can make multiple connections to a single postsynaptic neuron. If you haven’t compiled this file, then VERTEX will only be able to make connections using its default behaviour: allowing a maximum of one connection from a presynaptic neuron to a postsynaptic neuron.&lt;/p&gt;
 
-&lt;p&gt;To compile this MEX file, navigate to the vertex_mex folder inside the VERTEX simulator’s main folder and run the following command:&lt;/p&gt;
+&lt;p&gt;To compile this MEX file, navigate to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vertex_mex&lt;/code&gt; folder inside the VERTEX simulator’s main folder and run the following command:&lt;/p&gt;
 
-&lt;p&gt;mex(‘multiSynapse.cpp’)&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mex('multiSynapse.cpp')
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;where you should replace /path/to/vertex with the location of the vertex folder on your machine. Compiling this MEX file requires Matlab to be set up with a suitable C++ compiler; for details, see the &lt;a href=&quot;https://uk.mathworks.com/help/matlab/call-mex-files-1.html&quot;&gt;Mathworks MEX-file documentation&lt;/a&gt;.&lt;/p&gt;
 
@@ -43,7 +28,7 @@ where you should replace /path/to/vertex with the location of the vertex folder 
 
 &lt;p&gt;The next tutorial will get you started creating models and running simulations with VERTEX. If you have experienced any problems when trying to run this tutorial, or if you have any suggestions for improvements, please contact us using the &lt;a href=&quot;http://vertexsimulator.org/contact/&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;*. VERTEX makes use of Matlab’s object-oriented programming features, which were introduced in Matlab 2008a. This means that, unfortunately, VERTEX will not work with earlier versions of Matlab, or with &lt;a href=&quot;http://www.gnu.org/software/octave/&quot;&gt;Octave&lt;/a&gt;. VERTEX has been tested with Matlab 2010b and later; running it with older versions is not guaranteed to work.&lt;/p&gt;</content><author><name></name></author><summary type="html">To run VERTEX, you will need Matlab version 2008a or later* and the VERTEX code. You can download VERTEX from the download page. After downloading, simply extract the zipped folder ‘vertex’ to where you would like to keep the vertex code on your machine.</summary></entry><entry><title type="html">Tutorial 1: VERTEX basics</title><link href="/2021/01/01/my-second-blog-post.html" rel="alternate" type="text/html" title="Tutorial 1: VERTEX basics" /><published>2021-01-01T00:00:00-06:00</published><updated>2021-01-01T00:00:00-06:00</updated><id>/2021/01/01/my-second-blog-post</id><content type="html" xml:base="/2021/01/01/my-second-blog-post.html">&lt;p&gt;In this tutorial, we will introduce the core methods for setting up and running a VERTEX simulation, and recording LFPs from the network. VERTEX is designed to facilitate the simulation of extracellular potentials generated by activity in spiking neural networks; in particular, spatially-organised networks containing thousands or hundreds of thousands of neurons. VERTEX’s interface and model specification options were designed with this particular task in mind. It is therefore less flexible than other neural simulators (e.g. NEURON, NEST, Brian, GENESIS, Moose), but the limited scope has allowed us to simplify the user interface so that a simulation can be specified simply by setting some parameters and run using a few function calls. The parameters are divided into five categories: neuron group properties, connectivity &amp;amp; synapses, tissue properties, recording settings, and simulation settings. The parameters associated with each category are specified in Matlab structures or structure arrays.&lt;/p&gt;
+&lt;p&gt;*. VERTEX makes use of Matlab’s object-oriented programming features, which were introduced in Matlab 2008a. This means that, unfortunately, VERTEX will not work with earlier versions of Matlab, or with &lt;a href=&quot;http://www.gnu.org/software/octave/&quot;&gt;Octave&lt;/a&gt;. VERTEX has been tested with Matlab 2010b and later; running it with older versions is not guaranteed to work.&lt;/p&gt;</content><author><name></name></author><summary type="html">To run VERTEX, you will need Matlab version 2008a or later* and the VERTEX code. You can download VERTEX from the download page. After downloading, simply extract the zipped folder ‘vertex’ to where you would like to keep the vertex code on your machine.</summary></entry><entry><title type="html">Tutorial 1: VERTEX basics</title><link href="/tutorial-1/" rel="alternate" type="text/html" title="Tutorial 1: VERTEX basics" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial1</id><content type="html" xml:base="/tutorial-1/">&lt;p&gt;In this tutorial, we will introduce the core methods for setting up and running a VERTEX simulation, and recording LFPs from the network. VERTEX is designed to facilitate the simulation of extracellular potentials generated by activity in spiking neural networks; in particular, spatially-organised networks containing thousands or hundreds of thousands of neurons. VERTEX’s interface and model specification options were designed with this particular task in mind. It is therefore less flexible than other neural simulators (e.g. NEURON, NEST, Brian, GENESIS, Moose), but the limited scope has allowed us to simplify the user interface so that a simulation can be specified simply by setting some parameters and run using a few function calls. The parameters are divided into five categories: neuron group properties, connectivity &amp;amp; synapses, tissue properties, recording settings, and simulation settings. The parameters associated with each category are specified in Matlab structures or structure arrays.&lt;/p&gt;
 
 &lt;p&gt;In this tutorial, we will walk through the different parameter settings for creating a single group of neurons that synapses with itself.&lt;/p&gt;
 
@@ -51,8 +36,9 @@ where you should replace /path/to/vertex with the location of the vertex folder 
 
 &lt;p&gt;If you need a list of all the functions available to you in VERTEX, you can run the vertexFunctions() function, which prints all available functions with a brief description of what they do:&lt;/p&gt;
 
-&lt;p&gt;vertexFunctions
-  initNetwork:  Initialise simulation environment, setup the network and calculate constants for extracellular potential simulation.
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vertexFunctions
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  initNetwork:  Initialise simulation environment, setup the network and calculate constants for extracellular potential simulation.
   loadResults:  loads the results of a simulation run.
   neuronDynamics:  runs a simulation of a single neuron group.
   resetRandomSeed:  Resets the random number generator seed.
@@ -61,42 +47,47 @@ where you should replace /path/to/vertex with the location of the vertex folder 
   getSparseConnectivity:  Gets the sparse connectivity matrix for the network.
   groupRates:  Calculate the average firing rate of the neurons in each group.
   neuronRates:  calculates the mean firing rate of each neuron.
-  plotSomaPositions:  Plots the positions of the neurons’ soma compartments.
+  plotSomaPositions:  Plots the positions of the neurons' soma compartments.
   plotSpikeRaster:  Creates a spike raster plot.
-  viewMorphology:  Plots a neuron’s morphology.
-To get more in-depth help on a function, type help and then the function name just like a built-in Matlab function. For example, to see details of for the runSimulation() function, we enter:&lt;/p&gt;
+  viewMorphology:  Plots a neuron's morphology.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;help runSimulation
- RUNSIMULATION Run the simulation given the model generated by initNetwork().
+&lt;p&gt;To get more in-depth help on a function, type help and then the function name just like a built-in Matlab function. For example, to see details of for the runSimulation() function, we enter:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;help runSimulation
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; RUNSIMULATION Run the simulation given the model generated by initNetwork().
     RUNSIMULATION(PARAMS, CONNECTIONS, ELECTRODES) runs the simulation
     given the model generated by initNetwork(). PARAMS, CONNECTIONS and
     ELECTRODES are the PARAMS, CONNECTIONS and ELECTRODES outputs from the
     initNetwork() function. RUNSIMULATION automatically saves the simulation
     results in the directory specified by the user in the recording
-    settings structure given to initNetwork().&lt;/p&gt;
+    settings structure given to initNetwork().
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;If you need to check the physical units used in VERTEX, run the vertexUnits() function, which prints out a list of physical quantities with their associated units and a representative example:&lt;/p&gt;
 
-&lt;p&gt;vertexUnits
-  Units used by VERTEX:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vertexUnits
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Units used by VERTEX:
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;   Electric potential:            milliVolts              (e.g. leak potential E_leak)
-          Conductance:           nanoSiemens              (e.g. synaptic conductance weight)
-              Current:             picoAmps               (e.g. synaptic current weight)
-  Specific resistance:     Ohm * square centimetres       (e.g. specific membrane resistance R_M)
- Specific capacitance:  micfroFarads / square centimetre  (e.g. specific membrane capacitance C)   Longitudinal resistance:         Ohm * centimetres          (e.g. intracellular axial resistance R_A)
-         Conductivity:          Siemens / metre           (e.g. extracellular conductivity sigma)
-                 Time:            milliseconds            (e.g. synaptic time constant tau)
-               Length:            micrometres             (e.g. model width X)
+       Electric potential:            milliVolts              (e.g. leak potential E_leak)
+              Conductance:           nanoSiemens              (e.g. synaptic conductance weight)
+                  Current:             picoAmps               (e.g. synaptic current weight)
+      Specific resistance:     Ohm * square centimetres       (e.g. specific membrane resistance R_M)
+     Specific capacitance:  micfroFarads / square centimetre  (e.g. specific membrane capacitance C)
+  Longitudinal resistance:         Ohm * centimetres          (e.g. intracellular axial resistance R_A)
+             Conductivity:          Siemens / metre           (e.g. extracellular conductivity sigma)
+                     Time:            milliseconds            (e.g. synaptic time constant tau)
+                   Length:            micrometres             (e.g. model width X)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;If you’re really lost and forget the names of these functions, you can remind yourself by simply running vertexSimulator:&lt;/p&gt;
-
-&lt;p&gt;vertexSimulator&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Virtual Electrode Recording Tool for EXtracellular potentials
-    For a list of functions, enter vertexFunctions
-    To display the physical units used by VERTEX, enter vertexUnits
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vertexSimulator
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Virtual Electrode Recording Tool for EXtracellular potentials
+        For a list of functions, enter vertexFunctions
+        To display the physical units used by VERTEX, enter vertexUnits
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Now that we’ve covered the built-in help, we can move on to setting up and running a simulation.&lt;/p&gt;
@@ -130,52 +121,65 @@ To get more in-depth help on a function, type help and then the function name ju
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Tissue Parameters
-We start with the structure array holding the overall information about the piece of brain tissue we are modelling, which we call TissueParams. The order in which parameters are specified does not matter to VERTEX, so we proceed in what seems to us like a reasonable order, starting with the size of the model.&lt;/p&gt;
+&lt;h2 id=&quot;tissue-parameters&quot;&gt;Tissue Parameters&lt;/h2&gt;
 
-&lt;p&gt;TissueParams.X = 2500;
+&lt;p&gt;We start with the structure array holding the overall information about the piece of brain tissue we are modelling, which we call TissueParams. The order in which parameters are specified does not matter to VERTEX, so we proceed in what seems to us like a reasonable order, starting with the size of the model.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  TissueParams.X = 2500;
   TissueParams.Y = 400;
   TissueParams.Z = 200;
-  TissueParams.neuronDensity = 25000;&lt;/p&gt;
+  TissueParams.neuronDensity = 25000;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;X, Y and Z specify the dimensions of the model, in micrometres. The model space in this case is cubic, as in the brain slice model described in (Tomsett et al. 2014). Alternatively, if we don’t specify X or Y, but instead specify R, then VERTEX will create a cylindrical model with radius R micrometres and depth Z micrometres. neuronDensity gives the overall density of neurons in the model, in neurons per cubic mm. The number of neurons in the model is then calculated automatically (in this case there will be 2.5 * 0.4 * 0.2 * 25 000 = 5 000 neurons in the model).&lt;/p&gt;
 
 &lt;p&gt;Next we specify some more parameters concerning the spatial layout of the model:&lt;/p&gt;
 
-&lt;p&gt;TissueParams.numLayers = 1;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;TissueParams.numLayers = 1;
 TissueParams.layerBoundaryArr = [200, 0];
 TissueParams.numStrips = 10;
-numLayers is the total number of layers we want to create in the model. Layers can be used to organise both the spatial organisation of the model, and the connectivity of and dynamics of neuron groups in different layers; for example, the model described in (Tomsett et al. 2014) uses five layers to represent neocortical layers 1, 2/3, 4, 5 and 6. In this tutorial, we just want to have one layer. We assume the layer boundaries are defined as x-y planes, so we set their boundaries by specifying their z-depths. layerBoundaryArr contains a list of these depths, going from the top of the highest layer to the bottom of the lowest one. The length of layerBoundaryArr should therefore be equal to numLayers + 1.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;numLayers&lt;/code&gt; is the total number of layers we want to create in the model. Layers can be used to organise both the spatial organisation of the model, and the connectivity of and dynamics of neuron groups in different layers; for example, the model described in (Tomsett et al. 2014) uses five layers to represent neocortical layers 1, 2/3, 4, 5 and 6. In this tutorial, we just want to have one layer. We assume the layer boundaries are defined as x-y planes, so we set their boundaries by specifying their z-depths. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layerBoundaryArr&lt;/code&gt; contains a list of these depths, going from the top of the highest layer to the bottom of the lowest one. The length of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layerBoundaryArr&lt;/code&gt; should therefore be equal to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;numLayers + 1&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;Finally, we introduce the concept of ‘strips’. When setting up the neuron positions in a cuboid model, VERTEX will position each neuron’s soma randomly within the boundaries of its containing layer. This often does not matter, but sometimes it is useful to know more precisely where the neurons are positioned – when plotting spike trains to reveal spatial variation in firing patterns, for example. A cuboid model can be divided into two or more spatial ‘strips’, which are ordered from left to right on the x-axis. Neurons are then positioned by strip so that the lowest neuron IDs are in the the furthest left strip, and the highest neuron IDs in the the furthest right strip. The width of each strip is the width of the model, X, divided by the number of strips. Changing numStrips does not affect the model’s dynamics as such; it affects the precision of the placement of neurons along the x-axis.&lt;/p&gt;
 
-&lt;p&gt;TissueParams.tissueConductivity = 0.3;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;TissueParams.tissueConductivity = 0.3;
 TissueParams.maxZOverlap = [-1 , -1];
-tissueConductivity sets the extracellular medium’s conductivity, in Siemens per metre. This parameter is only required when using simulated extracellular electrodes. maxZOverlap sets the maximum distance outside the model’s upper and lower z-boundaries that a neuron’s dendrites can extend. As neurons are positioned according to their soma compartment, if the soma is placed close to the model’s boundaries, then its dendritic compartments will extend outside these boundaries. In the present model, we set the model z-depth to be 200 microns, so pyramidal neuron apical dendrites are bound to extend above the model space (we will be using layer 2/3 pyramidal cell models with an apical dendrite 330 micrometres long). In the current case this is desirable, as we set the 200 micron depth to be the depth of the soma-layer rather than meaning it to be the depth of the whole layer. Therefore we set maxZOverlap to -1, meaning that we do not want to set a maximum z-overlap length. In the cortical slice model described in (Tomsett et al. 2014), though, the layer boundaries are meant to represent the entire depth of the layer and the full size of the model. In that case, we set maxZOverlap to [0, 100]. This prevented the uppermost pyramidal neuron dendrite compartments from extending above the top of layer 1, but allowed dendritic compartments at the bottom of layer 6 to extend below the model by up to 100 microns into the “white matter”.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Neuron Group Parameters
-We have finished specifying the TissueParams structure, so now we specify the neuron group information in a structure array we call NeuronParams. We store the parameters for our only neuron group in NeuronParams(1), in case we want to add further groups at a later date. This neuron group is henceforth referred to as neuron group 1.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tissueConductivity&lt;/code&gt; sets the extracellular medium’s conductivity, in Siemens per metre. This parameter is only required when using simulated extracellular electrodes. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maxZOverlap&lt;/code&gt; sets the maximum distance outside the model’s upper and lower z-boundaries that a neuron’s dendrites can extend. As neurons are positioned according to their soma compartment, if the soma is placed close to the model’s boundaries, then its dendritic compartments will extend outside these boundaries. In the present model, we set the model z-depth to be 200 microns, so pyramidal neuron apical dendrites are bound to extend above the model space (we will be using layer 2/3 pyramidal cell models with an apical dendrite 330 micrometres long). In the current case this is desirable, as we set the 200 micron depth to be the depth of the soma-layer rather than meaning it to be the depth of the whole layer. Therefore we set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maxZOverlap&lt;/code&gt; to -1, meaning that we do not want to set a maximum z-overlap length. In the cortical slice model described in (Tomsett et al. 2014), though, the layer boundaries are meant to represent the entire depth of the layer and the full size of the model. In that case, we set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maxZOverlap&lt;/code&gt; to [0, 100]. This prevented the uppermost pyramidal neuron dendrite compartments from extending above the top of layer 1, but allowed dendritic compartments at the bottom of layer 6 to extend below the model by up to 100 microns into the “white matter”.&lt;/p&gt;
 
-&lt;p&gt;NeuronParams(1).modelProportion = 1;
+&lt;h2 id=&quot;neuron-group-parameters&quot;&gt;Neuron Group Parameters&lt;/h2&gt;
+
+&lt;p&gt;We have finished specifying the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TissueParams&lt;/code&gt; structure, so now we specify the neuron group information in a structure array we call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NeuronParams&lt;/code&gt;. We store the parameters for our only neuron group in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NeuronParams(1)&lt;/code&gt;, in case we want to add further groups at a later date. This neuron group is henceforth referred to as neuron group 1.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).modelProportion = 1;
 NeuronParams(1).somaLayer = 1;
-NeuronParams(1).neuronModel = ‘passive’;
-The first line defines the proportion of the total model size made up by neuron group 1. In this case we are only modelling a single neuron group, so the whole model is made up of neurons in this group. The second line specifies which layer of the model this neuron group is in (this must be layer 1, as we only have 1 layer in the model). The third line specifies what model to use to calculate the dynamics of the neurons in group 1. We have set this to ‘passive’ – so the neurons will only exhibit passive membrane dynamics. These kinds of groups can be useful for simulating the LFP given synaptic input from other neuron groups (see later tutorials), but will not generate any spikes on their own. Instead, we will specify group 1 to consist of neurons randomly firing with Poisson statistics, and a firing rate of 5 Hz:&lt;/p&gt;
+NeuronParams(1).neuronModel = 'passive';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;NeuronParams(1).neuronModel = ‘poisson’;
+&lt;p&gt;The first line defines the proportion of the total model size made up by neuron group 1. In this case we are only modelling a single neuron group, so the whole model is made up of neurons in this group. The second line specifies which layer of the model this neuron group is in (this must be layer 1, as we only have 1 layer in the model). The third line specifies what model to use to calculate the dynamics of the neurons in group 1. We have set this to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'passive'&lt;/code&gt; – so the neurons will only exhibit passive membrane dynamics. These kinds of groups can be useful for simulating the LFP given synaptic input from other neuron groups (see later tutorials), but will not generate any spikes on their own. Instead, we will specify group 1 to consist of neurons randomly firing with Poisson statistics, and a firing rate of 5 Hz:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).neuronModel = 'poisson';
 NeuronParams(1).firingRate = 5;
-Each neuron model in VERTEX has some unique parameters that must be specified when using them. The ‘poisson’ model’s only extra parameter is called firingRate, and sets each neuron in the group’s firing rate to be the specified number of spikes per second. Other models’ unique parameters can be found in the VERTEX reference.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Each neuron model in VERTEX has some unique parameters that must be specified when using them. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'poisson'&lt;/code&gt; model’s only extra parameter is called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;firingRate&lt;/code&gt;, and sets each neuron in the group’s firing rate to be the specified number of spikes per second. Other models’ unique parameters can be found in the VERTEX reference.&lt;/p&gt;
 
 &lt;p&gt;Next we specify the number of compartments per neuron we want.&lt;/p&gt;
 
-&lt;p&gt;NeuronParams(1).numCompartments = 1;
-If we specify 1 compartment, then VERTEX will treat this group as consisting of point neurons. No further parameters would be required in the NeuronParams structure array in this case. This is useful for specifying groups of “external” populations that provide external input to the simulation, but do not contribute to the LFP, for example. However, as we want to simulate the LFP in this group, we need to use compartmental neurons (Pettersen et al. 2012). We will use the layer 2/3 pyramidal neuron models described in (Tomsett et al. 2014), which contain 8 compartments.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).numCompartments = 1;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;NeuronParams(1).numCompartments = 8;
+&lt;p&gt;If we specify 1 compartment, then VERTEX will treat this group as consisting of point neurons. No further parameters would be required in the NeuronParams structure array in this case. This is useful for specifying groups of “external” populations that provide external input to the simulation, but do not contribute to the LFP, for example. However, as we want to simulate the LFP in this group, we need to use compartmental neurons (Pettersen et al. 2012). We will use the layer 2/3 pyramidal neuron models described in (Tomsett et al. 2014), which contain 8 compartments.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).numCompartments = 8;
 NeuronParams(1).compartmentParentArr = [0, 1, 2, 2, 4, 1, 6, 6];
 NeuronParams(1).compartmentLengthArr = [13 48 124 145 137 40 143 143];
-NeuronParams(1).compartmentDiameterArr = …
+NeuronParams(1).compartmentDiameterArr = ...
   [29.8, 3.75, 1.91, 2.81, 2.69, 2.62, 1.69, 1.69];
-NeuronParams(1).compartmentXPositionMat = …
+NeuronParams(1).compartmentXPositionMat = ...
 [   0,    0;
     0,    0;
     0,  124;
@@ -184,7 +188,7 @@ NeuronParams(1).compartmentXPositionMat = …
     0,    0;
     0, -139;
     0,  139];
-NeuronParams(1).compartmentYPositionMat = …
+NeuronParams(1).compartmentYPositionMat = ...
 [   0,    0;
     0,    0;
     0,    0;
@@ -193,7 +197,7 @@ NeuronParams(1).compartmentYPositionMat = …
     0,    0;
     0,    0;
     0,    0];
-NeuronParams(1).compartmentZPositionMat = …
+NeuronParams(1).compartmentZPositionMat = ...
 [ -13,    0;
     0,   48;
     48,   48;
@@ -202,137 +206,173 @@ NeuronParams(1).compartmentZPositionMat = …
     -13,  -53;
     -53, -139;
     -53, -139];
-NeuronParams(1).axisAligned = ‘z’;
-compartmentParentArr gives the compartmental structure. We assume the neurons’ compartmental structure will always be a tree, so each compartment will have a maximum of one parent compartment – and the soma has no parent. compartmentParentArr lists the parent compartment ID at the index of each child compartment; compartment ID 1 is the soma so has no parent compartment and is set to 0. compartmentDiameterArr gives the diameter of each compartment in microns, again with the indices of the array representing the compartment IDs. The compartment[XYZ]PositionMat values specify the start and end coordinates of each compartment, presuming the soma compartment is positioned at (0,0,0). During network construction, these values are used to calculate the position of each compartment of each neuron after random positioning and rotation. They are also used to calculate the length of each compartment (though a compartmentLengthArr list containing the length of each compartment as defined by the user can be specified to override the automatic calculations). Row indices represent compartment IDs, column 1 holds compartment start coordinates and column 2 holds column end coordinates.&lt;/p&gt;
+NeuronParams(1).axisAligned = 'z';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;compartmentParentArr&lt;/code&gt; gives the compartmental structure. We assume the neurons’ compartmental structure will always be a tree, so each compartment will have a maximum of one parent compartment – and the soma has no parent. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;compartmentParentArr&lt;/code&gt; lists the parent compartment ID at the index of each child compartment; compartment ID 1 is the soma so has no parent compartment and is set to 0. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;compartmentDiameterArr&lt;/code&gt; gives the diameter of each compartment in microns, again with the indices of the array representing the compartment IDs. The compartment[XYZ]&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PositionMat&lt;/code&gt; values specify the start and end coordinates of each compartment, presuming the soma compartment is positioned at (0,0,0). During network construction, these values are used to calculate the position of each compartment of each neuron after random positioning and rotation. They are also used to calculate the length of each compartment (though a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;compartmentLengthArr&lt;/code&gt; list containing the length of each compartment as defined by the user can be specified to override the automatic calculations). Row indices represent compartment IDs, column 1 holds compartment start coordinates and column 2 holds column end coordinates.&lt;/p&gt;
 
 &lt;p&gt;Next we specify the neurons’ passive properties:&lt;/p&gt;
 
-&lt;p&gt;NeuronParams(1).C = 1.0 * 2.96;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).C = 1.0 * 2.96;
 NeuronParams(1).R_M = 20000 / 2.96;
 NeuronParams(1).R_A = 150;
 NeuronParams(1).E_leak = -70;
-C is the specific membrane capacitance in microFarads per square centimetre, R_M is the specific membrane resistance in Ohms per square centimetre, R_A is the axial resistance in Ohm-centimetres and E_leak is the membrane leak conductance reversal potential in mV.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;C is the specific membrane capacitance in microFarads per square centimetre, R_M is the specific membrane resistance in Ohms per square centimetre, R_A is the axial resistance in Ohm-centimetres and E_leak is the membrane leak conductance reversal potential in mV.&lt;/p&gt;
 
 &lt;p&gt;The next code listing is entirely optional, but useful when specifying the model connectivity parameters. We specify labels for the different compartments in the model, so that we don’t have to remember explicitly the numbers of the compartments that comprise different sections of the neuron. The name of each parameter is chosen to be descriptive, but could be chosen arbitrarily.&lt;/p&gt;
 
-&lt;p&gt;NeuronParams(1).basalID = [6, 7, 8];
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).basalID = [6, 7, 8];
 NeuronParams(1).apicalID = [2 3 4 5];
-As we are only specifying one neuron group, we are now finished with the NeuronParams structure array (further groups would have parameters specified in NeuronParams(2), NeuronParams(3) etc.).&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Connectivity Parameters
-VERTEX treats spikes as discrete events that trigger some postsynaptic event at targeted neurons. Connectivity is specified probabilistically in terms of connections between groups of neurons. We specify the relevant parameters in a structure array called ConnectionParams.&lt;/p&gt;
+&lt;p&gt;As we are only specifying one neuron group, we are now finished with the NeuronParams structure array (further groups would have parameters specified in NeuronParams(2), NeuronParams(3) etc.).&lt;/p&gt;
+
+&lt;h2 id=&quot;connectivity-parameters&quot;&gt;Connectivity Parameters&lt;/h2&gt;
+
+&lt;p&gt;VERTEX treats spikes as discrete events that trigger some postsynaptic event at targeted neurons. Connectivity is specified probabilistically in terms of connections between groups of neurons. We specify the relevant parameters in a structure array called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ConnectionParams&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;VERTEX treats each structure in the structure array as referring to a presynaptic population of neurons – ConnectionParams(1) contains the connectivity parameters for neuron group one to make connections to other postsynaptic groups. Where parameters need to be specified on a per-postsynaptic-group basis, we use a cell array with each cell index referring to the ID of that postsynaptic neuron group.&lt;/p&gt;
 
-&lt;p&gt;ConnectionParams(1).numConnectionsToAllFromOne{1} = 2000;
-ConnectionParams(1).synapseType{1} = ‘i_exp’;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).numConnectionsToAllFromOne{1} = 2000;
+ConnectionParams(1).synapseType{1} = 'i_exp';
 ConnectionParams(1).tau{1} = 2;
 ConnectionParams(1).weights{1} = 10;
-ConnectionParams(1).targetCompartments{1} = …
+ConnectionParams(1).targetCompartments{1} = ...
   [NeuronParams(1).basalID, NeuronParams(1).apicalID];
-In the above code, we first say that each presynaptic neuron in group 1 (index of the structure array) makes 2000 connections to postsynaptic neurons in group 1 (index of the cell array). We specify that the type of these synapses is ‘i_exp’ – single exponential, current-based synapses (the other currently available synapse type in VERTEX is ‘g_exp’, which are conductance-based single exponential synapses; in this case, a reversal potential for the synapse must be specified in the relevant E_reversal parameter cell). We specify the weight of these synapses – for current-based synapses in pA, and for conductance-based in nS – and the exponential decay time constant tau in ms. Finally, targetCompartments lists which compartments on the postsynaptic neurons are allowed to be contacted by the presynaptic neurons (this is where the labels we gave to the compartment numbers comes in handy).&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In the above code, we first say that each presynaptic neuron in group 1 (index of the structure array) makes 2000 connections to postsynaptic neurons in group 1 (index of the cell array). We specify that the type of these synapses is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'i_exp'&lt;/code&gt; – single exponential, current-based synapses (the other currently available synapse type in VERTEX is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'g_exp'&lt;/code&gt;, which are conductance-based single exponential synapses; in this case, a reversal potential for the synapse must be specified in the relevant &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E_reversal&lt;/code&gt; parameter cell). We specify the weight of these synapses – for current-based synapses in pA, and for conductance-based in nS – and the exponential decay time constant tau in ms. Finally, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;targetCompartments&lt;/code&gt; lists which compartments on the postsynaptic neurons are allowed to be contacted by the presynaptic neurons (this is where the labels we gave to the compartment numbers comes in handy).&lt;/p&gt;
 
 &lt;p&gt;Next, we need to specify the axonal arbour properties.&lt;/p&gt;
 
-&lt;p&gt;ConnectionParams(1).axonArborSpatialModel = ‘gaussian’;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).axonArborSpatialModel = 'gaussian';
 ConnectionParams(1).sliceSynapses = true;
 ConnectionParams(1).axonArborRadius = 250;
 ConnectionParams(1).axonArborLimit = 500;
-The axon arbour of each neuron is defined as a 2D probability distribution in the x-y plane centred at the presynaptic neuron, and defines how the probability of making a connection to a postsynaptic neuron varies in space. Specifying the axonArborSpatialModel to be ‘gaussian’ means that the connection probability decays away from a presynaptic neuron as a 2D gaussian with standard deviation given by the axonArborRadius parameter. If we instead set axonArborSpatialModel to be ‘uniform’, the axonArborRadius parameter would represent the maximum extent of the arbor and the connection probability would be constant within this radius. These are the two currently implemented connectivity profiles; we intend to add more complex profiles (e.g. non-isotropic gaussians, patchy projections) in the future. axonArborLimit is an optional parameter for gaussian arbors, and specifies a cutoff point beyond which no connections can be made. If this parameter is not set, then neurons have no limit on their maximum connection distance.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The axon arbour of each neuron is defined as a 2D probability distribution in the x-y plane centred at the presynaptic neuron, and defines how the probability of making a connection to a postsynaptic neuron varies in space. Specifying the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonArborSpatialModel&lt;/code&gt; to be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'gaussian'&lt;/code&gt; means that the connection probability decays away from a presynaptic neuron as a 2D gaussian with standard deviation given by the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonArborRadius&lt;/code&gt; parameter. If we instead set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonArborSpatialModel&lt;/code&gt; to be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'uniform'&lt;/code&gt;, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonArborRadius&lt;/code&gt; parameter would represent the maximum extent of the arbor and the connection probability would be constant within this radius. These are the two currently implemented connectivity profiles; we intend to add more complex profiles (e.g. non-isotropic gaussians, patchy projections) in the future. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonArborLimit&lt;/code&gt; is an optional parameter for gaussian arbors, and specifies a cutoff point beyond which no connections can be made. If this parameter is not set, then neurons have no limit on their maximum connection distance.&lt;/p&gt;
 
 &lt;p&gt;Finally, we need to set the axonal conduction speed, and the constant synaptic release delay for synapses made by this group of neurons:&lt;/p&gt;
 
-&lt;p&gt;ConnectionParams(1).axonConductionSpeed = 0.3;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).axonConductionSpeed = 0.3;
 ConnectionParams(1).synapseReleaseDelay = 0.5;
-axonConductionSpeed specifies the speed with which action potentials propagate down axons in this neuron group, in m/s. This speed is used to calculate axonal propagation delays after a neuron spikes. synapseReleaseDelay sets a constant time, in ms, for neurotransmitter release after an action potential reaches a synaptic terminal. This time is simply added to the distance-dependent axonal propagation delay.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Tip: if you want to specify a network with constant (not distance-dependent) axonal delay times, you could set synapseReleaseDelay to the desired constant delay time and set axonConductionSpeed = Inf.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonConductionSpeed&lt;/code&gt; specifies the speed with which action potentials propagate down axons in this neuron group, in m/s. This speed is used to calculate axonal propagation delays after a neuron spikes. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;synapseReleaseDelay&lt;/code&gt; sets a constant time, in ms, for neurotransmitter release after an action potential reaches a synaptic terminal. This time is simply added to the distance-dependent axonal propagation delay.&lt;/p&gt;
 
-&lt;p&gt;Recording settings
-In order to analyse the output of a model, we need to be able to record the variables over the time course of the simulation. We specify what we want to record in the recording settings structure. VERTEX will save the spike trains of all neurons by default, but can also record individual neuronal membrane potentials and LFPs.&lt;/p&gt;
+&lt;p&gt;Tip: if you want to specify a network with constant (not distance-dependent) axonal delay times, you could set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;synapseReleaseDelay&lt;/code&gt; to the desired constant delay time and set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonConductionSpeed = Inf&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;RecordingSettings.saveDir = ‘~/VERTEX_results_tutorial_1/’;
+&lt;h2 id=&quot;recording-settings&quot;&gt;Recording settings&lt;/h2&gt;
+
+&lt;p&gt;In order to analyse the output of a model, we need to be able to record the variables over the time course of the simulation. We specify what we want to record in the recording settings structure. VERTEX will save the spike trains of all neurons by default, but can also record individual neuronal membrane potentials and LFPs.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RecordingSettings.saveDir = '~/VERTEX_results_tutorial_1/';
 RecordingSettings.LFP = true;
 [meaX, meaY, meaZ] = meshgrid(0:500:2500, 200, 600:-200:0);
 RecordingSettings.meaXpositions = meaX;
 RecordingSettings.meaYpositions = meaY;
 RecordingSettings.meaZpositions = meaZ;
 RecordingSettings.minDistToElectrodeTip = 20;
-First we set the directory in which we want to save the files that VERTEX generates. Then we set LFP to true, so VERTEX knows we want to record LFPs. We then use Matlab’s meshgrid function to calculate x, y and z coordinates (in microns) of our multi-electrode array. VERTEX expects electrode coordinates in the format output by meshgrid , but it isn’t necessary to use the meshgrid function to specify the electrode positions – they can be placed arbitrarily. Model coordinates in VERTEX use standard x, y and z axis directions, so we specify the z-coordinates of the MEA in descending order so that they are numbered from top to bottom as in the experimental MEA in (Tomsett et al. 2014). This example produces a 2.5 mm by 0.6 mm MEA with 24 electrodes, at a constant y-coordinate of 0.2 mm, with an inter-electrode spacing of 0.5 mm in the x-plane and 0.2 mm in the z-plane. Finally we set minDistToElectrodeTip – this value ensures that no neuronal compartment can be positioned too close to an electrode tip and therefore unrealistically dominate the LFP. We choose 20 microns, which is the default value if this parameter is not set by the user.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;First we set the directory in which we want to save the files that VERTEX generates. Then we set LFP to true, so VERTEX knows we want to record LFPs. We then use Matlab’s meshgrid function to calculate x, y and z coordinates (in microns) of our multi-electrode array. VERTEX expects electrode coordinates in the format output by meshgrid , but it isn’t necessary to use the meshgrid function to specify the electrode positions – they can be placed arbitrarily. Model coordinates in VERTEX use standard x, y and z axis directions, so we specify the z-coordinates of the MEA in descending order so that they are numbered from top to bottom as in the experimental MEA in (Tomsett et al. 2014). This example produces a 2.5 mm by 0.6 mm MEA with 24 electrodes, at a constant y-coordinate of 0.2 mm, with an inter-electrode spacing of 0.5 mm in the x-plane and 0.2 mm in the z-plane. Finally we set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;minDistToElectrodeTip&lt;/code&gt; – this value ensures that no neuronal compartment can be positioned too close to an electrode tip and therefore unrealistically dominate the LFP. We choose 20 microns, which is the default value if this parameter is not set by the user.&lt;/p&gt;
 
 &lt;p&gt;We can also choose which neurons we want to record the membrane potential from, if any. We provide this in a list of neuron IDs. While the IDs are only generated during model initialisation, we know roughly where in the model space the neuron of each ID will be because of the method of using strips to constrain the x-coordinates of the neurons. We can sample membrane potentials of one neuron from each strip, for example, to look at differences in membrane potentials across the space of the model. We will specify:&lt;/p&gt;
 
-&lt;p&gt;RecordingSettings.v_m = 500:500:4500;
-to tell VERTEX to record from neuron IDs 500, 1500, 2500, … 4500, ensuring that we record from one neuron in each strip. The membrane % potential is always recorded at the soma compartment.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RecordingSettings.v_m = 500:500:4500;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;to tell VERTEX to record from neuron IDs 500, 1500, 2500, … 4500, ensuring that we record from one neuron in each strip. The membrane % potential is always recorded at the soma compartment.&lt;/p&gt;
 
 &lt;p&gt;Next we set the sample rate and the maximum simulation time between saves:&lt;/p&gt;
 
-&lt;p&gt;RecordingSettings.maxRecTime = 100;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RecordingSettings.maxRecTime = 100;
 RecordingSettings.sampleRate = 1000;
-maxRecTime specifies, in milliseconds, the amount of time that VERTEX records for before saving the recordings to disk and starting recording again. This chunks the recordings into files of length maxRecTime * sampleRate / 1000, and ensures that for large MEAs the file sizes and memory usage do not grow too large. We have found that setting this to 100-200 ms provides a good compromise between memory usage and slowing the simulation down due to excessive file save operations, though the optimal value will depend on your model details. In smaller models with few electrodes, it may be suitable to set this to be equal to the total simulation length. sampleRate is simply the rate at which VERTEX samples the LFP, in Hz. High values can severely slow simulation time in large models, or for large numbers of electrodes. 1000 Hz provides a good resolution for most LFP investigations (note: in the next section we will describe how to set the simulation time step. If the simulation time step and specified sample rate are incompatible, VERTEX will automatically sample at the closest (higher) frequency that is compatible with the time step).&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;General simulation settings
-Finally we need to specify some overall simulation settings.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maxRecTime&lt;/code&gt; specifies, in milliseconds, the amount of time that VERTEX records for before saving the recordings to disk and starting recording again. This chunks the recordings into files of length &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maxRecTime&lt;/code&gt; * &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sampleRate&lt;/code&gt; / 1000, and ensures that for large MEAs the file sizes and memory usage do not grow too large. We have found that setting this to 100-200 ms provides a good compromise between memory usage and slowing the simulation down due to excessive file save operations, though the optimal value will depend on your model details. In smaller models with few electrodes, it may be suitable to set this to be equal to the total simulation length. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sampleRate&lt;/code&gt; is simply the rate at which VERTEX samples the LFP, in Hz. High values can severely slow simulation time in large models, or for large numbers of electrodes. 1000 Hz provides a good resolution for most LFP investigations (note: in the next section we will describe how to set the simulation time step. If the simulation time step and specified sample rate are incompatible, VERTEX will automatically sample at the closest (higher) frequency that is compatible with the time step).&lt;/p&gt;
 
-&lt;p&gt;SimulationSettings.simulationTime = 1000;
+&lt;h2 id=&quot;general-simulation-settings&quot;&gt;General simulation settings&lt;/h2&gt;
+
+&lt;p&gt;Finally we need to specify some overall simulation settings.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SimulationSettings.simulationTime = 1000;
 SimulationSettings.timeStep = 0.03125;
 SimulationSettings.parallelSim = false;
-We set the total simulation time to 1000 ms, and the global integration time step to 0.03125 ms. We then tell VERTEX to run in serial mode by setting parallelSim to false. If you want to run a parallel simulation, set parallelSim to true, and provide the Matlab pool size parallel profile to use:&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;SimulationSettings.poolSize = 4;
-SimulationSettings.profileName = ‘local’;
-If poolSize and profileName are not set, then VERTEX will ask Matlab to start a parallel job with Matlab’s default settings. If you do not have the Matlab Parallel Computing Toolbox installed, then VERTEX will just run the simulation in serial mode.&lt;/p&gt;
+&lt;p&gt;We set the total simulation time to 1000 ms, and the global integration time step to 0.03125 ms. We then tell VERTEX to run in serial mode by setting &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parallelSim&lt;/code&gt; to false. If you want to run a parallel simulation, set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parallelSim&lt;/code&gt; to true, and provide the Matlab pool size parallel profile to use:&lt;/p&gt;
 
-&lt;p&gt;Generate the network
-Now that we have set all the required parameters for our simulation in the relevant structures, we can generate the network.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SimulationSettings.poolSize = 4;
+SimulationSettings.profileName = 'local';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;[params, connections, electrodes] = …
-  initNetwork(TissueParams, NeuronParams, ConnectionParams, …
+&lt;p&gt;If poolSize and profileName are not set, then VERTEX will ask Matlab to start a parallel job with Matlab’s default settings. If you do not have the Matlab Parallel Computing Toolbox installed, then VERTEX will just run the simulation in serial mode.&lt;/p&gt;
+
+&lt;h2 id=&quot;generate-the-network&quot;&gt;Generate the network&lt;/h2&gt;
+
+&lt;p&gt;Now that we have set all the required parameters for our simulation in the relevant structures, we can generate the network.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[params, connections, electrodes] = ...
+  initNetwork(TissueParams, NeuronParams, ConnectionParams, ...
               RecordingSettings, SimulationSettings);
-The initNetwork function performs a number of operations. Firstly it sets up the parallel environment if a Matlab parallel pool is not already running. Secondly, it creates the neuron groups, positions them in space, and if necessary distributes them between parallel processes. Thirdly, it calculates the model connectivity based on the connection statistics and neuron positions. Finally, if recording the LFP, it pre-calculates the constants required for the line-source extracellular potential calculation based on the neuron and electrode positions.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Run the simulation
-Now that we have generated the network, we can run the model to simulate the dynamics in the network and record the resultant LFPs.&lt;/p&gt;
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;initNetwork&lt;/code&gt; function performs a number of operations. Firstly it sets up the parallel environment if a Matlab parallel pool is not already running. Secondly, it creates the neuron groups, positions them in space, and if necessary distributes them between parallel processes. Thirdly, it calculates the model connectivity based on the connection statistics and neuron positions. Finally, if recording the LFP, it pre-calculates the constants required for the line-source extracellular potential calculation based on the neuron and electrode positions.&lt;/p&gt;
 
-&lt;p&gt;runSimulation(params, connections, electrodes);
-This function will run the dynamics in the simulation according to the specified parameters and previously generated network, storing the variables that have been specified to record from in the location set in RecordingSettings. The timestep will be printed every 5 milliseconds so you can keep track of how long the simulation has left to run. Once the simulation has run (this may take some time depending on your computer and the size of the model), you can load the results for analysis.&lt;/p&gt;
+&lt;h2 id=&quot;run-the-simulation&quot;&gt;Run the simulation&lt;/h2&gt;
 
-&lt;p&gt;Results = loadResults(RecordingSettings.saveDir);
-The loadResults function loads variables saved from a previous simulation in the input directory specified as its input argument. loadResults automatically reconstructs the data saved by runSimulation for both serial and parallel simulations. It returns a structure which holds the spike, LFP and membrane potential (if requested) recordings. Recordings.spikes contains all neurons’ spike times, listed so that each row contains [neuron ID, spike time in ms]. To plot all the spikes in a spike raster, we can do:&lt;/p&gt;
+&lt;p&gt;Now that we have generated the network, we can run the model to simulate the dynamics in the network and record the resultant LFPs.&lt;/p&gt;
 
-&lt;p&gt;figure(1)
-plot(Results.spikes(:, 2), Results.spikes(:, 1), ‘k.’)
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;runSimulation(params, connections, electrodes);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This function will run the dynamics in the simulation according to the specified parameters and previously generated network, storing the variables that have been specified to record from in the location set in RecordingSettings. The timestep will be printed every 5 milliseconds so you can keep track of how long the simulation has left to run. Once the simulation has run (this may take some time depending on your computer and the size of the model), you can load the results for analysis.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Results = loadResults(RecordingSettings.saveDir);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The loadResults function loads variables saved from a previous simulation in the input directory specified as its input argument. loadResults automatically reconstructs the data saved by runSimulation for both serial and parallel simulations. It returns a structure which holds the spike, LFP and membrane potential (if requested) recordings. Recordings.spikes contains all neurons’ spike times, listed so that each row contains [neuron ID, spike time in ms]. To plot all the spikes in a spike raster, we can do:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;figure(1)
+plot(Results.spikes(:, 2), Results.spikes(:, 1), 'k.')
 axis([0 500 -50 5050])
-set(gcf,’color’,’w’);
-set(gca,’YDir’,’reverse’);
-set(gca,’FontSize’,16)
-title(‘Tutorial 1: spike raster’, ‘FontSize’, 16)
-xlabel(‘Time (ms)’, ‘FontSize’, 16)
-ylabel(‘Neuron ID’, ‘FontSize’, 16)&lt;/p&gt;
+set(gcf,'color','w');
+set(gca,'YDir','reverse');
+set(gca,'FontSize',16)
+title('Tutorial 1: spike raster', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('Neuron ID', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/dyBnOcg.png&quot; alt=&quot;Raster_img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/FaWhstG.png&quot; alt=&quot;Raster_img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Recordings.LFP is a matrix in which each row contains the LFP recording from the electrode of that row index (see above). So, to plot the LFP from electrode 3, for example, we can do:&lt;/p&gt;
 
-&lt;p&gt;figure(2)
-plot(Results.LFP(3, :), ‘LineWidth’, 2)
-set(gcf,’color’,’w’);
-set(gca,’FontSize’,16)
-title(‘Tutorial 1: LFP at electrode 3’, ‘FontSize’, 16)
-xlabel(‘Time (ms)’, ‘FontSize’, 16)
-ylabel(‘LFP (mV)’, ‘FontSize’, 16)&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;figure(2)
+plot(Results.LFP(3, :), 'LineWidth', 2)
+set(gcf,'color','w');
+set(gca,'FontSize',16)
+title('Tutorial 1: LFP at electrode 3', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/APiwk5C.png&quot; alt=&quot;LFP_img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally, Recordings.v_m contains the soma membrane potential of each neuron we specified should be recorded from in RecordingSettings, ordered in ascending ID order. Again, each row is a time series for a neuron. Given that we set RecordingSettings.v_m = 500:500:4500 above, if we want to plot the membrane potential of neuron 1500 we would do:&lt;/p&gt;
 
-&lt;p&gt;figure(3)
-plot(Results.v_m(3, :), ‘LineWidth’, 2)
-set(gcf,’color’,’w’);
-set(gca,’FontSize’,16)
-title(‘Tutorial 1: membrane potential for neuron 1500’, ‘FontSize’, 16)
-xlabel(‘Time (ms)’, ‘FontSize’, 16)
-ylabel(‘Membrane potential (mV)’, ‘FontSize’, 16)&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;figure(3)
+plot(Results.v_m(3, :), 'LineWidth', 2)
+set(gcf,'color','w');
+set(gca,'FontSize',16)
+title('Tutorial 1: membrane potential for neuron 1500', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('Membrane potential (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/6pSZPhJ.png&quot; alt=&quot;MP_img&quot; /&gt;&lt;/p&gt;
 
@@ -345,4 +385,1223 @@ Tomsett RJ, Ainsworth M, Thiele A, Sanayei M, Chen X et al. (2014) Virtual Elect
 
 &lt;p&gt;Pettersen KH, Lindén H, Dale AM, Einevoll GT (2012) Extracellular spikes and current-source density. In: Brette R, Destexhe A (eds) Handbook of Neural Activity Measurement. Cambridge University Press&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://uk.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2014a&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this tutorial, we will introduce the core methods for setting up and running a VERTEX simulation, and recording LFPs from the network. VERTEX is designed to facilitate the simulation of extracellular potentials generated by activity in spiking neural networks; in particular, spatially-organised networks containing thousands or hundreds of thousands of neurons. VERTEX’s interface and model specification options were designed with this particular task in mind. It is therefore less flexible than other neural simulators (e.g. NEURON, NEST, Brian, GENESIS, Moose), but the limited scope has allowed us to simplify the user interface so that a simulation can be specified simply by setting some parameters and run using a few function calls. The parameters are divided into five categories: neuron group properties, connectivity &amp;amp; synapses, tissue properties, recording settings, and simulation settings. The parameters associated with each category are specified in Matlab structures or structure arrays.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://uk.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2014a&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this tutorial, we will introduce the core methods for setting up and running a VERTEX simulation, and recording LFPs from the network. VERTEX is designed to facilitate the simulation of extracellular potentials generated by activity in spiking neural networks; in particular, spatially-organised networks containing thousands or hundreds of thousands of neurons. VERTEX’s interface and model specification options were designed with this particular task in mind. It is therefore less flexible than other neural simulators (e.g. NEURON, NEST, Brian, GENESIS, Moose), but the limited scope has allowed us to simplify the user interface so that a simulation can be specified simply by setting some parameters and run using a few function calls. The parameters are divided into five categories: neuron group properties, connectivity &amp;amp; synapses, tissue properties, recording settings, and simulation settings. The parameters associated with each category are specified in Matlab structures or structure arrays.</summary></entry><entry><title type="html">Tutorial 2: Networks of neurons with spiking dynamics</title><link href="/tutorial-2/" rel="alternate" type="text/html" title="Tutorial 2: Networks of neurons with spiking dynamics" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial2</id><content type="html" xml:base="/tutorial-2/">&lt;p&gt;In the previous tutorial we looked at a network of 5000 layer 2/3 pyramidal cells, connected to each other and firing randomly. In this tutorial, we will create a more interesting model containing excitatory and inhibitory neurons with intrinsic spiking dynamics. We will stimulate the neurons using random input currents, resulting in the generation of a network oscillation.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;p&gt;Tissue parameters
+Neuron parameters
+Connectivity parameters
+Recording and simulation settings
+Generate the network
+Run the simulation
+Plot the results
+References&lt;/p&gt;
+
+&lt;h2 id=&quot;tissue-parameters&quot;&gt;Tissue parameters&lt;/h2&gt;
+
+&lt;p&gt;First we specify the same tissue parameters as in tutorial 1:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;TissueParams.X = 2500;
+TissueParams.Y = 400;
+TissueParams.Z = 200;
+TissueParams.neuronDensity = 25000;
+TissueParams.numLayers = 1;
+TissueParams.layerBoundaryArr = [200, 0];
+TissueParams.numStrips = 10;
+TissueParams.tissueConductivity = 0.3;
+TissueParams.maxZOverlap = [-1 , -1];
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;neuron-parameters&quot;&gt;Neuron parameters&lt;/h2&gt;
+
+&lt;p&gt;Next we will specify the parameters for our two neuron groups. We will use the neuron models described in (Tomsett et al. 2014) for layer 2/3 pyramidal neurons and basket interneurons. We are going to set 85% of the neurons to be pyramidal cells, in neuron group 1.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).modelProportion = 0.85;
+NeuronParams(1).somaLayer = 1;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We are going to use the adaptive exponential (AdEx) model to generate spiking dynamics (Brette &amp;amp; Gerstner 2005). Our models will be different from the original AdEx model as they will also contain dendritic compartments so that they can generate an extracellular potential. The AdEx dynamics are in the soma compartment, while the dendrites are passive. The AdEx model requires us to specify some extra parameters that control the model dynamics:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).neuronModel = 'adex';
+NeuronParams(1).V_t = -50;
+NeuronParams(1).delta_t = 2;
+NeuronParams(1).a = 2.6;
+NeuronParams(1).tau_w = 65;
+NeuronParams(1).b = 220;
+NeuronParams(1).v_reset = -60;
+NeuronParams(1).v_cutoff = -45;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;V_t&lt;/code&gt; is the spike generation threshold (in mV), &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;delta_t&lt;/code&gt; is the spike steepness parameter (in mV), a is the scale factor of the spike after-hyperpolarisation (AHP) current (in nanoSiemens), &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tau_w&lt;/code&gt; is the AHP current time constant (in ms), b is the instantaneous change in the AHP current after a spike (in pA), &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;v_reset&lt;/code&gt; is the membrane potential that the soma compartment is reset to after firing a spike (in mV), and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;v_cutoff&lt;/code&gt; is the membrane potential at which a spike is detected (in mV). We recommend that this parameter is set to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;V_t&lt;/code&gt; + 5; if it is set much higher, the exponential term in the AdEx equations can lead to the membrane potentialexploding to a not-a-number (NaN) value, which breaks things.&lt;/p&gt;
+
+&lt;p&gt;The remaining parameters defining the structure and passive properties are the same as in Tutorial 1:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).numCompartments = 8;
+NeuronParams(1).compartmentParentArr = [0, 1, 2, 2, 4, 1, 6, 6];
+NeuronParams(1).compartmentLengthArr = [13 48 124 145 137 40 143 143];
+NeuronParams(1).compartmentDiameterArr = ...
+  [29.8, 3.75, 1.91, 2.81, 2.69, 2.62, 1.69, 1.69];
+NeuronParams(1).compartmentXPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,  124;
+    0,    0;
+    0,    0;
+    0,    0;
+    0, -139;
+    0,  139];
+NeuronParams(1).compartmentYPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0];
+NeuronParams(1).compartmentZPositionMat = ...
+[ -13,    0;
+    0,   48;
+   48,   48;
+   48,  193;
+  193,  330;
+  -13,  -53;
+  -53, -139;
+  -53, -139];
+NeuronParams(1).axisAligned = 'z';
+NeuronParams(1).C = 1.0*2.96;
+NeuronParams(1).R_M = 20000/2.96;
+NeuronParams(1).R_A = 150;
+NeuronParams(1).E_leak = -70;
+NeuronParams(1).somaID = 1;
+NeuronParams(1).basalID = [6, 7, 8];
+NeuronParams(1).apicalID = [2 3 4 5];
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In order to generate spikes, we need to provide the neurons with some input. We set the inputs to our neuron group in another structure array, called Inptut, that we create as a field in our NeuronParams(1) structure. Input is a structure array rather than just a structure so that we can specify multiple different inputs to the neurons in multiple Input array elements. For the moment, we’re just going to use one input type: random currents with a mean value of 330 pA, a standard deviation of 90 pA, and a time constant of 2 ms. The type of random current we use is an Ornstein Uhlenbeck process, so the input type is set to ‘i_ou’ (we could also apply our input as a conductance &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'g_ou'&lt;/code&gt;, in which case we would also need to set an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E_reversal&lt;/code&gt; parameter to set the reversal potential).&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).Input(1).inputType = 'i_ou';
+NeuronParams(1).Input(1).meanInput = 330;
+NeuronParams(1).Input(1).stdInput = 90;
+NeuronParams(1).Input(1).tau = 2;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Next we set the parameters for the 2nd neuron group, which represent basket interneurons. These cells’ dendrites are not aligned along a particular axis, so we set the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axisAligned&lt;/code&gt; parameters to be empty. We set the parameters to give this neuron type fast-spiking behaviour.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(2).modelProportion = 0.15;
+NeuronParams(2).somaLayer = 1;
+NeuronParams(2).axisAligned = '';
+NeuronParams(2).neuronModel = 'adex';
+NeuronParams(2).V_t = -50;
+NeuronParams(2).delta_t = 2;
+NeuronParams(2).a = 0.04;
+NeuronParams(2).tau_w = 10;
+NeuronParams(2).b = 40;
+NeuronParams(2).v_reset = -65;
+NeuronParams(2).v_cutoff = -45;
+NeuronParams(2).numCompartments = 7;
+NeuronParams(2).compartmentParentArr = [0 1 2 2 1 5 5];
+NeuronParams(2).compartmentLengthArr = [10 56 151 151 56 151 151];
+NeuronParams(2).compartmentDiameterArr = ...
+  [24 1.93 1.95 1.95 1.93 1.95 1.95];
+NeuronParams(2).compartmentXPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,  107;
+    0, -107;
+    0,    0;
+    0, -107;
+    0,  107];
+NeuronParams(2).compartmentYPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0];
+NeuronParams(2).compartmentZPositionMat = ...
+[ -10,    0;
+    0,   56;
+   56,  163;
+   56,  163;
+  -10,  -66;
+  -66, -173;
+  -66, -173];
+NeuronParams(2).C = 1.0*2.93;
+NeuronParams(2).R_M = 15000/2.93;
+NeuronParams(2).R_A = 150;
+NeuronParams(2).E_leak = -70;
+NeuronParams(2).dendritesID = [2 3 4 5 6 7];
+NeuronParams(2).Input(1).inputType = 'i_ou';
+NeuronParams(2).Input(1).meanInput = 190;
+NeuronParams(2).Input(1).tau = 0.8;
+NeuronParams(2).Input(1).stdInput = 50;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;connectivity-parameters&quot;&gt;Connectivity parameters&lt;/h2&gt;
+
+&lt;p&gt;We set the connectivity parameters in the same way as in tutorial 1, but this time we need to specify the parameters for connections between the two groups. First we set the parameters for connections from group 1 (the pyramidal cells) to itself:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).numConnectionsToAllFromOne{1} = 1700;
+ConnectionParams(1).synapseType{1} = 'i_exp';
+ConnectionParams(1).targetCompartments{1} = [NeuronParams(1).basalID, ...
+                                             NeuronParams(1).apicalID];
+ConnectionParams(1).weights{1} = 1;
+ConnectionParams(1).tau{1} = 2;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Then the parameters for connections from group 1 to group 2 (the basket interneurons):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).numConnectionsToAllFromOne{2} = 300;
+ConnectionParams(1).synapseType{2} = 'i_exp';
+ConnectionParams(1).targetCompartments{2} = NeuronParams(2).dendritesID;
+ConnectionParams(1).weights{2} = 28;
+ConnectionParams(1).tau{2} = 1;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And then the generic parameters for connections from group 1:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).axonArborSpatialModel = 'gaussian';
+ConnectionParams(1).sliceSynapses = true;
+ConnectionParams(1).axonArborRadius = 250;
+ConnectionParams(1).axonArborLimit = 500;
+ConnectionParams(1).axonConductionSpeed = 0.3;
+ConnectionParams(1).synapseReleaseDelay = 0.5;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We repeat this process for connections from group 2:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(2).numConnectionsToAllFromOne{1} = 1000;
+ConnectionParams(2).synapseType{1} = 'i_exp';
+ConnectionParams(2).targetCompartments{1} = NeuronParams(1).somaID;
+ConnectionParams(2).weights{1} = -5;
+ConnectionParams(2).tau{1} = 6;
+
+ConnectionParams(2).numConnectionsToAllFromOne{2} = 200;
+ConnectionParams(2).synapseType{2} = 'i_exp';
+ConnectionParams(2).targetCompartments{2} = NeuronParams(2).dendritesID;
+ConnectionParams(2).weights{2} = -4;
+ConnectionParams(2).tau{2} = 3;
+
+ConnectionParams(2).axonArborSpatialModel = 'gaussian';
+ConnectionParams(2).sliceSynapses = true;
+ConnectionParams(2).axonArborRadius = 200;
+ConnectionParams(2).axonArborLimit = 500;
+ConnectionParams(2).axonConductionSpeed = 0.3;
+ConnectionParams(2).synapseReleaseDelay = 0.5;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that for the weights in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ConnectionParams(2)&lt;/code&gt; we use negative values, as basket interneurons are inhibitory. Of course, if we used conductance-based synapses instead, then we would use positive weights as the inhibitory nature of the synapses would be controlled by the synapses’ reversal potential.&lt;/p&gt;
+
+&lt;h2 id=&quot;recording-and-simulation-settings&quot;&gt;Recording and simulation settings&lt;/h2&gt;
+
+&lt;p&gt;We will use the same recording and simulation settings as in the previous tutorial. Note that the simulation will take longer to run than in tutorial 1, as the AdEx dyamics add complexity to the calculations.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RecordingSettings.saveDir = '~/VERTEX_results_tutorial_2/';
+RecordingSettings.LFP = true;
+[meaX, meaY, meaZ] = meshgrid(0:1000:2000, 200, 600:-300:0);
+RecordingSettings.meaXpositions = meaX;
+RecordingSettings.meaYpositions = meaY;
+RecordingSettings.meaZpositions = meaZ;
+RecordingSettings.minDistToElectrodeTip = 20;
+RecordingSettings.v_m = 250:250:4750;
+RecordingSettings.maxRecTime = 100;
+RecordingSettings.sampleRate = 1000;
+
+SimulationSettings.simulationTime = 500;
+SimulationSettings.timeStep = 0.03125;
+SimulationSettings.parallelSim = true;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;generate-the-network&quot;&gt;Generate the network&lt;/h2&gt;
+
+&lt;p&gt;We generate the network in exactly the same way as in tutorial 1, by calling the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;initNetwork&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[params, connections, electrodes] = ...
+  initNetwork(TissueParams, NeuronParams, ConnectionParams, ...
+              RecordingSettings, SimulationSettings);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;run-the-simulation&quot;&gt;Run the simulation&lt;/h2&gt;
+
+&lt;p&gt;Now we can run the simulatio, and load the results:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;runSimulation(params, connections, electrodes);
+Results = loadResults(RecordingSettings.saveDir);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;plot-the-results&quot;&gt;Plot the results&lt;/h2&gt;
+
+&lt;p&gt;Rather than manually plotting the spike raster, we will make use of VERTEX’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;plotSpikeRaster&lt;/code&gt; function, which does some automatic prettyfication of spike raster plots. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;plotSpikeRaster&lt;/code&gt; accepts the Results structure we loaded using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;loadResults&lt;/code&gt; and a structure of parameters that set some properties of the figure. It returns a handle to the created figure.&lt;/p&gt;
+
+&lt;p&gt;The minimal parameter structure simply contains a cell array of color values that set the color of each neuron group:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;rasterParams.colors = {'k', 'm'};
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Using these parameters, we obtain the following figure:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;rasterFigure = plotSpikeRaster(Results, rasterParams);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Eou5LJw.png&quot; alt=&quot;Tutorial_2_spike_raster_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We can add some further fields to the parameter structure for enhanced prettiness. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;groupBoundaryLines&lt;/code&gt; is a color value, which if set will make plotSpikeRaster draw separating lines between the neuron groups in this color. You can also set a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;xlabel&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ylabel&lt;/code&gt;. Finally, we can specify which Matlab figure number to use. If we don’t specify this, a new figure window will be opened.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;rasterParams.groupBoundaryLines = [0.7, 0.7, 0.7];
+rasterParams.title = 'Tutorial 2 Spike Raster';
+rasterParams.xlabel = 'Time (ms)';
+rasterParams.ylabel = 'Neuron ID';
+rasterParams.figureID = 2;
+
+rasterFigureImproved = plotSpikeRaster(Results, rasterParams);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/WTTeBdW.png&quot; alt=&quot;Tutorial_2_spike_raster_2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The spike raster shows a gamma oscillation occurring in the population (for details on the mechanism of this oscillation, see Tomsett et al. 2014). The precise details of the spiking in your simulation will depend on the random number generation, which we did not seed explicitly (seeding random numbers in VERTEX is covered in tutorial 5). The oscillation can be seen in the LFP:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;figure(3)
+plot(Results.LFP', 'LineWidth', 2)
+set(gcf,'color','w');
+set(gca,'FontSize',16)
+title('Tutorial 2: LFP at all electrodes', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/HTW24Mb.png&quot; alt=&quot;Tutorial_2_LFP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Plotting the LFP from all electrodes also reveals a phase inversion, which depends on the location of the electrodes in relation to the pyramidal neuron somas (Tomsett et al. 2014).&lt;/p&gt;
+
+&lt;p&gt;If you have experienced any problems when trying to run this tutorial, or if you have any suggestions for improvements, please email Richard Tomsett: r at autap dot se&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Tomsett RJ, Ainsworth M, Thiele A, Sanayei M, Chen X et al. (2014) Virtual Electrode Recording Tool for EXtracellular potentials (VERTEX): comparing multi-electrode recordings from simulated and biological mammalian cortical tissue, Brain Structure and Function. doi:10.1007/s00429-014-0793-x&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2013b&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In the previous tutorial we looked at a network of 5000 layer 2/3 pyramidal cells, connected to each other and firing randomly. In this tutorial, we will create a more interesting model containing excitatory and inhibitory neurons with intrinsic spiking dynamics. We will stimulate the neurons using random input currents, resulting in the generation of a network oscillation.</summary></entry><entry><title type="html">Tutorial 3: Loading spike times from previous simulation runs</title><link href="/tutorial-3/" rel="alternate" type="text/html" title="Tutorial 3: Loading spike times from previous simulation runs" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial3</id><content type="html" xml:base="/tutorial-3/">&lt;p&gt;In this tutorial, we will use VERTEX’s spike loading functionality to simulate LFPs in a network from previously generated spike times. VERTEX can do this in two ways. Firstly, a VERTEX simulation can be run with spike times generated by the network, and these spike times can then be re-loaded into the simulation so that the LFP can be re-generated using the same spike times, but purely passive neurons. This is useful for checking results from simulations using AdEx neurons: the AdEx mechanism can influence the measured LFP in potentially un-biological ways (see Fig ESM1 in the supplementary material for Tomsett et al. 2014). The extent of this influence will depend on the size of the network, the strength of the synaptic currents, and the network dynamics.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;p&gt;Load parameters and run the simulation
+Re-running the simulation with loaded spikes
+Re-run the simulation with loaded spikes
+Re-run the simulation with a sub-set of the loaded spikes
+References&lt;/p&gt;
+
+&lt;h2 id=&quot;load-parameters-and-run-the-simulation&quot;&gt;Load parameters and run the simulation&lt;/h2&gt;
+
+&lt;p&gt;We will use the same model as in tutorial 2. We have stored the parameters for this model in a Matlab script called tutorial_3_params.m, so first we will load this script:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tutorial_3_params;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;You may want to change the save directory:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RecordingSettings.saveDir = '~/VERTEX_results_tutorial_3/';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Next we will create the network, run the simulation, load the results, and plot the spike raster and LFPs:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[networkParams, connections, electrodes] = ...
+  initNetwork(TissueParams, NeuronParams, ConnectionParams, ...
+                    RecordingSettings, SimulationSettings);
+
+runSimulation(networkParams, connections, electrodes);
+Results = loadResults(RecordingSettings.saveDir);
+
+rasterParams.colors = {'k', 'm'};
+rasterParams.groupBoundaryLines = 'c';
+rasterParams.title = 'Tutorial 3 Spike Raster (original)';
+rasterParams.xlabel = 'Time (ms)';
+rasterParams.ylabel = 'Neuron ID';
+rasterParams.figureID = 1;
+rasterFigure1 = plotSpikeRaster(Results, rasterParams);
+
+figure(2)
+plot(Results.LFP', 'LineWidth', 2)
+set(gcf, 'color', 'w');
+title('Tutorial 3: LFP at all electrodes (with AdEx neurons)','FontSize',16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/rUe7mnl.png&quot; alt=&quot;Tutorial_3_spike_raster_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/7EoViDu.png&quot; alt=&quot;Tutorial_3_LFP_1&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;re-running-the-simulation-with-loaded-spikes&quot;&gt;Re-running the simulation with loaded spikes&lt;/h2&gt;
+
+&lt;p&gt;We want to keep all aspects of the simulation the same, but now use the previously calculated spike times with passive neurons. We can therefore keep our parameter structures the same, but alter the neuron model. Note that the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;initNetwork&lt;/code&gt; function groups our parameter structures together for input to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;runSimulation&lt;/code&gt; function, so we need to access the parameter structures within this previously returned structure:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;networkParams.NeuronParams(1).neuronModel = 'passive';
+networkParams.NeuronParams(2).neuronModel = 'passive';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Next we tell VERTEX to load the previously generated spike times from the output directory of the previous simulation run. We set the spikeLoad parameter to an array containing the IDs of all the neurons we want to load the spike times of. For the moment, we want to load spikes from all 5000 neurons:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;networkParams.SimulationSettings.spikeLoad = 1:5000;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;If we don’t set the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SimulationSettings.spikeLoadDir&lt;/code&gt; parameter, then VERTEX will load spikes from the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;RecordingSettings.saveDir&lt;/code&gt; directory. However, VERTEX will output its results to this same directory, overwriting the previous simulation’s saved files. We therefore change these locations:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;networkParams.SimulationSettings.spikeLoadDir = ...
+  networkParams.RecordingSettings.saveDir;
+networkParams.RecordingSettings.saveDir = ...
+  '~/VERTEX_results_tutorial_3_spikeload/';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;re-run-the-simulation&quot;&gt;Re-run the simulation&lt;/h2&gt;
+
+&lt;p&gt;We want to run the simulation again using the same network, so we don’t call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;initNetwork&lt;/code&gt; again, just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;runSimulation&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;runSimulation(networkParams, connections, electrodes);
+Results = loadResults(networkParams.RecordingSettings.saveDir);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We then plot the results from this re-run. The spike raster should be identical to the spike raster we plotted in figure 1, while the LFP should show some small differences.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;rasterParams.title = 'Tutorial 3 Spike Raster (spike load)';
+rasterParams.figureID = 3;
+rasterFigure2 = plotSpikeRaster(Results, rasterParams);
+
+figure(4)
+plot(Results.LFP', 'LineWidth', 2)
+set(gcf, 'color', 'w');
+title('Tutorial 3: LFP at all electrodes (with passive neurons)','FontSize',16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/sW3ez7s.png&quot; alt=&quot;Tutorial_3_spikes_2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/VCOPAwI.png&quot; alt=&quot;Tutorial_3_LFP_2&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;re-run-the-simulation-with-a-sub-set-of-the-loaded-spikes&quot;&gt;Re-run the simulation with a sub-set of the loaded spikes&lt;/h2&gt;
+
+&lt;p&gt;We can also re-run our simulation using a subset of neurons. This can be useful for investigating the influence of a particular presynaptic neuron type on the total LFP, for example.&lt;/p&gt;
+
+&lt;p&gt;For this simulation run we’ll load just the pyramidal neurons’ spikes. We can find out the boundary IDs of the groups by looking at the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;groupBoundaryIdArr&lt;/code&gt; field in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TissueParams&lt;/code&gt; structure returned by the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;initNetwork&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;disp(networkParams.TissueParams.groupBoundaryIDArr);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;groupBoundaryIDArr&lt;/code&gt; stores the boundary IDs for each group in order. To get the IDs for all neurons in group 1, then, we do:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;group1IDs = networkParams.TissueParams.groupBoundaryIDArr(1)+1 : ...
+            networkParams.TissueParams.groupBoundaryIDArr(1+1);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We then set the SimulationSettings.spikeLoad parameter to these IDs:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;networkParams.SimulationSettings.spikeLoad = group1IDs;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;… and set a new save directory:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;networkParams.RecordingSettings.saveDir = ...
+  '~/VERTEX_results_tutorial_3_spikeload_group1/';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Now we can rerun the simulation with just pyramidal neuron spikes loaded&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;runSimulation(networkParams, connections, electrodes);
+Results = loadResults(networkParams.RecordingSettings.saveDir);
+
+rasterParams.title = 'Tutorial 3 Spike Raster (spike load, group 1)';
+rasterParams.figureID = 5;
+rasterFigure3 = plotSpikeRaster(Results, rasterParams);
+
+figure(6)
+plot(Results.LFP', 'LineWidth', 2)
+set(gcf, 'color', 'w');
+set(gca, 'FontSize', 16);
+title('Tutorial 3: LFP at all electrodes (just group 1 spikes)','FontSize',16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/oKW5AYK.png&quot; alt=&quot;Tutorial_3_spikes_3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/bYogjxu.png&quot; alt=&quot;Tutorial_3_LFP_3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the next tutorial, we will look at how to pre-specify spike times to load into the network rather than generating them in a simulation using spiking neurons.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Tomsett RJ, Ainsworth M, Thiele A, Sanayei M, Chen X et al. (2014) Virtual Electrode Recording Tool for EXtracellular potentials (VERTEX): comparing multi-electrode recordings from simulated and biological mammalian cortical tissue, Brain Structure and Function. doi:10.1007/s00429-014-0793-x&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://uk.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2013b&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this tutorial, we will use VERTEX’s spike loading functionality to simulate LFPs in a network from previously generated spike times. VERTEX can do this in two ways. Firstly, a VERTEX simulation can be run with spike times generated by the network, and these spike times can then be re-loaded into the simulation so that the LFP can be re-generated using the same spike times, but purely passive neurons. This is useful for checking results from simulations using AdEx neurons: the AdEx mechanism can influence the measured LFP in potentially un-biological ways (see Fig ESM1 in the supplementary material for Tomsett et al. 2014). The extent of this influence will depend on the size of the network, the strength of the synaptic currents, and the network dynamics.</summary></entry><entry><title type="html">Tutorial 4: Loading pre-generated spike times</title><link href="/tutorial-4/" rel="alternate" type="text/html" title="Tutorial 4: Loading pre-generated spike times" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial4</id><content type="html" xml:base="/tutorial-4/">&lt;p&gt;This tutorial shows how to use pre-generated spike times in a network of passive neurons to generate the LFP.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+&lt;p&gt;Load parameters and run the simulation
+Initialise and run the simulation&lt;/p&gt;
+
+&lt;h2 id=&quot;load-parameters-and-run-the-simulation&quot;&gt;Load parameters and run the simulation&lt;/h2&gt;
+&lt;p&gt;We have set the parameters in the tutorial_4_params.m file. These are the same as for the previous tutorial, but we haven’t given the neurons any information about their dynamics or the model to use.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tutorial_4_params;
+
+RecordingSettings.saveDir = '~/VERTEX_results_tutorial_4/';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;VERTEX has a special type of neuron model for loading pre-computed spike times, called loadspiketimes:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).neuronModel = 'loadspiketimes';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;This model requires the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;spikeTimeFile&lt;/code&gt; parameter to be specified. This is the location of the file that sets the spike times for each neuron in the group. So first let’s create this file.&lt;/p&gt;
+
+&lt;p&gt;The format for the spike times is a cell array with one cell per neuron in the group. Each cell holds the spike times for that neuron, in ms. For illustration we will simply generate random spike times, but you can use any method you like to create a particular set of spike times that interests you.&lt;/p&gt;
+
+&lt;p&gt;First we get the size of the neuron group:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;totalSize = (TissueParams.neuronDensity * ...
+             TissueParams.X * TissueParams.Y * TissueParams.Z) / 1000^3;
+
+group1Size = NeuronParams(1).modelProportion * totalSize;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Then we’ll populate a cell array of this size with spike times for each neuron. We will set the spike times for each neuron to be at 30 ms, 60 ms, 90 ms etc. plus some random Gaussian jitter:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;spikeTimes = cell(group1Size, 1);
+baseSpikeTimes = 30:30:480;
+jitter = randn(group1Size, length(baseSpikeTimes)) .* 5;
+spikeTimesMatrix = bsxfun(@plus, baseSpikeTimes, jitter);
+spikeTimesCell = mat2cell(spikeTimesMatrix, ...
+                          ones(group1Size,1), length(baseSpikeTimes));
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We’ll save this cell array to disk, and specify its location in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NeuronParams(1).spikeTimeFile&lt;/code&gt; field:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;save('~/spikeTimesGroup1.mat', 'spikeTimesCell');
+NeuronParams(1).spikeTimeFile = '~/spikeTimesGroup1.mat';
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;We’ll keep the group 2 (basket) cells as AdEx neurons:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(2).neuronModel = 'adex';
+NeuronParams(2).V_t = -50;
+NeuronParams(2).delta_t = 2;
+NeuronParams(2).a = 0.04;
+NeuronParams(2).tau_w = 10;
+NeuronParams(2).b = 40;
+NeuronParams(2).v_reset = -65;
+NeuronParams(2).v_cutoff = -45;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;##Initialise and run the simulation
+Now we can initialise and run our simulation, and plot the results:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[params, connections, electrodes] = ...
+  initNetwork(TissueParams, NeuronParams, ConnectionParams, ...
+              RecordingSettings, SimulationSettings);
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;runSimulation(params, connections, electrodes);
+Results = loadResults(RecordingSettings.saveDir);
+
+rasterParams.colors = {'k', 'm'};
+rasterParams.groupBoundaryLines = 'c';
+rasterParams.title = 'Tutorial 4 Spike Raster (original)';
+rasterParams.xlabel = 'Time (ms)';
+rasterParams.ylabel = 'Neuron ID';
+rasterParams.figureID = 1;
+rasterFigure1 = plotSpikeRaster(Results, rasterParams);
+
+figure(2)
+plot(Results.LFP', 'LineWidth', 2)
+set(gcf, 'color', 'w');
+set(gca, 'FontSize', 16);
+title('Tutorial 4: LFP at all electrodes', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mrh0yyK.png&quot; alt=&quot;Tutorial4spikes_img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/EU3kje7.png&quot; alt=&quot;Tutorial_4_LFP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that the pyramidal neurons in group one fire randomly at the times precalculated in the code above, while the basket interneurons in group two are driven to fire by the input from pyramidal cells as well as being inhibited by within-group connections. This kind of input pattern to the interneurons causes them to fire syncrhonously after a build-up of input from the pyramidal cells. In the LFP, this manifests as double troughs: the initial trough caused by dendritic excitation onto the pyramidal cells from the other pyramidal cells, and the second deeper trough resulting from synchronous somatic inhibition from the interneurons. At the electrodes positioned above the phase-inversion point, a double peak is not so easily apparent without zooming in. The inhibition and excitation produce defelctions in the LFP in the same direction because of their opposing locations on the dendritic trees of the pyramidal neurons.&lt;/p&gt;
+
+&lt;p&gt;If you have experienced any problems when trying to run this tutorial, or if you have any suggestions for improvements, please contact us using the contact form.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://uk.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2013b&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This tutorial shows how to use pre-generated spike times in a network of passive neurons to generate the LFP.</summary></entry><entry><title type="html">Tutorial 5: Models with several layers</title><link href="/tutorial-5/" rel="alternate" type="text/html" title="Tutorial 5: Models with several layers" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial5</id><content type="html" xml:base="/tutorial-5/">&lt;p&gt;In this tutorial we will create a model arranged into several cortical layers. The model represents a simplified neocortical circuit containing cortical layers 3, 4 and 5. Note that this tutorial may take some time to run as it implements a model containing more than 10,000 neurons.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tissue parameters&lt;/li&gt;
+  &lt;li&gt;Neuron group parameters&lt;/li&gt;
+  &lt;li&gt;Connectivity&lt;/li&gt;
+  &lt;li&gt;Recording and simulation settings&lt;/li&gt;
+  &lt;li&gt;Run simulation and load results&lt;/li&gt;
+  &lt;li&gt;Plot the results&lt;/li&gt;
+  &lt;li&gt;References&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tissue-parameters&quot;&gt;Tissue parameters&lt;/h2&gt;
+
+&lt;p&gt;Our tissue parameters are similar to the previous tutorials:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;TissueParams.X = 2000;
+TissueParams.Y = 400;
+TissueParams.Z = 650;
+TissueParams.neuronDensity = 20000;
+TissueParams.numStrips = 50;
+TissueParams.tissueConductivity = 0.3;
+TissueParams.maxZOverlap = [-1 , -1];
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;However, we need to set the number of layers to 3 and make sure we set the layer boundaries to create a 200 micron thick layer 3, a 300 micron thick layer 4 and a 150 micron thick layer 5:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;TissueParams.numLayers = 3;
+TissueParams.layerBoundaryArr = [650, 450, 150, 0];
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;As the total Z-depth of the model is 650, we specify the top boundary of our layer three (the model’s first layer) to be 650 microns, then the top of layer 4 to be 450 microns, and the top of layer 5 to be 150 microns.&lt;/p&gt;
+
+&lt;h2 id=&quot;neuron-group-parameters&quot;&gt;Neuron group parameters&lt;/h2&gt;
+
+&lt;p&gt;Next we need to set up our neuron groups. Groups are allocated to a layer, and we will include pyramidal cells and basket interneurons in layer 3, spiny stellate cells and basket interneurons in layer 4, and pyramidal cells and basket interneurons in layer 5. We therefore need six neuron groups. We take the proportion of the total number of neurons that each group makes up (very) approximately from the data in Binzegger et al. 2004. Basket cells and spiny stellate cells share the same morphology, but have different firing dynamics (see Tomsett et al. 2014 for the firing responses of the cell models).&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).somaLayer = 1; % Pyramidal cells in layer 3
+NeuronParams(1).modelProportion = 0.4;
+NeuronParams(1).neuronModel = 'adex';
+NeuronParams(1).V_t = -50;
+NeuronParams(1).delta_t = 2;
+NeuronParams(1).a = 2.6;
+NeuronParams(1).tau_w = 65;
+NeuronParams(1).b = 220;
+NeuronParams(1).v_reset = -60;
+NeuronParams(1).v_cutoff = -45;
+NeuronParams(1).numCompartments = 8;
+NeuronParams(1).compartmentParentArr = [0, 1, 2, 2, 4, 1, 6, 6];
+NeuronParams(1).compartmentLengthArr = [13 48 124 145 137 40 143 143];
+NeuronParams(1).compartmentDiameterArr = ...
+  [29.8, 3.75, 1.91, 2.81, 2.69, 2.62, 1.69, 1.69];
+NeuronParams(1).compartmentXPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,  124;
+    0,    0;
+    0,    0;
+    0,    0;
+    0, -139;
+    0,  139];
+NeuronParams(1).compartmentYPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0];
+NeuronParams(1).compartmentZPositionMat = ...
+[ -13,    0;
+    0,   48;
+   48,   48;
+   48,  193;
+  193,  330;
+  -13,  -53;
+  -53, -139;
+  -53, -139];
+NeuronParams(1).axisAligned = 'z';
+NeuronParams(1).C = 1.0*2.96;
+NeuronParams(1).R_M = 20000/2.96;
+NeuronParams(1).R_A = 150;
+NeuronParams(1).E_leak = -70;
+NeuronParams(1).somaID = 1;
+NeuronParams(1).basalID = [6, 7, 8];
+NeuronParams(1).apicalID = [2 3 4 5];
+
+NeuronParams(2).somaLayer = 1; % Basket cells in layer 3
+NeuronParams(2).modelProportion = 0.08;
+NeuronParams(2).axisAligned = '';
+NeuronParams(2).neuronModel = 'adex';
+NeuronParams(2).V_t = -50;
+NeuronParams(2).delta_t = 2;
+NeuronParams(2).a = 0.04;
+NeuronParams(2).tau_w = 10;
+NeuronParams(2).b = 40;
+NeuronParams(2).v_reset = -65;
+NeuronParams(2).v_cutoff = -45;
+NeuronParams(2).numCompartments = 7;
+NeuronParams(2).compartmentParentArr = [0 1 2 2 1 5 5];
+NeuronParams(2).compartmentLengthArr = [10 56 151 151 56 151 151];
+NeuronParams(2).compartmentDiameterArr = ...
+  [24 1.93 1.95 1.95 1.93 1.95 1.95];
+NeuronParams(2).compartmentXPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,  107;
+    0, -107;
+    0,    0;
+    0, -107;
+    0,  107];
+NeuronParams(2).compartmentYPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0];
+NeuronParams(2).compartmentZPositionMat = ...
+[ -10,    0;
+    0,   56;
+   56,  163;
+   56,  163;
+  -10,  -66;
+  -66, -173;
+  -66, -173];
+NeuronParams(2).C = 1.0*2.93;
+NeuronParams(2).R_M = 15000/2.93;
+NeuronParams(2).R_A = 150;
+NeuronParams(2).E_leak = -70;
+NeuronParams(2).dendritesID = [2 3 4 5 6 7];
+
+
+NeuronParams(3) = NeuronParams(2); % spiny stellates same morphology as basket
+NeuronParams(3).somaLayer = 2;     % but in layer 4
+NeuronParams(3).modelProportion = 0.3;
+NeuronParams(3).V_t = -50;         % and different AdEx parameters
+NeuronParams(3).delta_t = 2.2;
+NeuronParams(3).a = 0.35;
+NeuronParams(3).tau_w = 150;
+NeuronParams(3).b = 40;
+NeuronParams(3).v_reset = -70;
+NeuronParams(3).v_cutoff = -45;
+
+NeuronParams(4) = NeuronParams(2); % basket cells same in every layer
+NeuronParams(4).somaLayer = 2;     % these are in layer 4
+NeuronParams(4).modelProportion = 0.1;
+
+NeuronParams(5).somaLayer = 3; % Pyramidal cells in layer 5
+NeuronParams(5).modelProportion = 0.1;
+NeuronParams(5).axisAligned = 'z';
+NeuronParams(5).neuronModel = 'adex';
+NeuronParams(5).V_t = -52;
+NeuronParams(5).delta_t = 2;
+NeuronParams(5).a = 10;
+NeuronParams(5).tau_w = 75;
+NeuronParams(5).b = 345;
+NeuronParams(5).v_reset = -60;
+NeuronParams(5).v_cutoff = -47;
+NeuronParams(5).numCompartments = 9;
+NeuronParams(5).compartmentParentArr = [0 1 2 2 4 5 1 7 7];
+NeuronParams(5).compartmentLengthArr = [35 65 152 398 402 252 52 186 186];
+NeuronParams(5).compartmentDiameterArr = ...
+  [25 4.36 2.65 4.10 2.25 2.4 5.94 3.45 3.45];
+NeuronParams(5).compartmentXPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,  152;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0, -193;
+    0,  193];
+NeuronParams(5).compartmentYPositionMat = ...
+[   0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0;
+    0,    0];
+NeuronParams(5).compartmentZPositionMat = ...
+[ -35,    0;
+    0,   65;
+   65,   65;
+   65,  463;
+  463,  865;
+  865, 1117;
+  -35,  -87;
+  -87, -193;
+  -87, -193];
+NeuronParams(5).C = 1.0*2.95;
+NeuronParams(5).R_M = 20000/2.95;
+NeuronParams(5).R_A = 150;
+NeuronParams(5).E_leak = -70;
+NeuronParams(5).dendritesID = [2 3 4 5 6 7 8 9];
+
+NeuronParams(6) = NeuronParams(2); % Basket cells in layer 5
+NeuronParams(6).somaLayer = 3;
+NeuronParams(6).modelProportion = 0.02;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We will also need to provide the neurons with some input:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams(1).Input(1).inputType = 'i_ou';
+NeuronParams(1).Input(1).meanInput = 330;
+NeuronParams(1).Input(1).stdInput = 80;
+NeuronParams(1).Input(1).tau = 2;
+NeuronParams(2).Input(1).inputType = 'i_ou';
+NeuronParams(2).Input(1).meanInput = 200;
+NeuronParams(2).Input(1).stdInput = 20;
+NeuronParams(2).Input(1).tau = 1;
+NeuronParams(3).Input(1).inputType = 'i_ou';
+NeuronParams(3).Input(1).meanInput = 230;
+NeuronParams(3).Input(1).stdInput = 30;
+NeuronParams(3).Input(1).tau = 2;
+NeuronParams(4).Input(1).inputType = 'i_ou';
+NeuronParams(4).Input(1).meanInput = 200;
+NeuronParams(4).Input(1).stdInput = 20;
+NeuronParams(4).Input(1).tau = 1;
+NeuronParams(5).Input(1).inputType = 'i_ou';
+NeuronParams(5).Input(1).meanInput = 830;
+NeuronParams(5).Input(1).stdInput = 160;
+NeuronParams(5).Input(1).tau = 2;
+NeuronParams(6).Input(1).inputType = 'i_ou';
+NeuronParams(6).Input(1).meanInput = 200;
+NeuronParams(6).Input(1).stdInput = 20;
+NeuronParams(6).Input(1).tau = 1;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;connectivity&quot;&gt;Connectivity&lt;/h2&gt;
+
+&lt;p&gt;Connectivity parameteres are specified as before, except that now we have several layers, the numbers can be specified per layer. Parameters that can specified on a per-layer basis are &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonArborRadius&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;axonArborLimit&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;numConnectionsToAllFromOne&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).axonArborRadius = [300, 200, 100];
+ConnectionParams(1).axonArborLimit = [600, 400, 200];
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The above code sets the axons arbor radius of the layer 3 pyramidal cells to 250 microns in layer 3, 200 microns in layer 4 and 100 microns in layer 5, as well as setting the axon arbor limit to 500, 400 and 200 microns in those layers, respectively. To set the number of connections between neuron groups in different layers, we use the same syntax:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).numConnectionsToAllFromOne{1} = [1500,    0,    0];
+ConnectionParams(1).numConnectionsToAllFromOne{2} = [ 250,    0,    0];
+ConnectionParams(1).numConnectionsToAllFromOne{3} = [   0,   50,    0];
+ConnectionParams(1).numConnectionsToAllFromOne{4} = [   0,   20,    0];
+ConnectionParams(1).numConnectionsToAllFromOne{5} = [  25,    0,  175];
+ConnectionParams(1).numConnectionsToAllFromOne{6} = [   0,    0,   25];
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Most neurons only reside in their soma layer, so many of the values are zero. However, layer 5 neurons are large and so span all three layers. Layer 3 pyramidal neurons can make connections with layer 5 pyramidal neurons in layer 3 and layer 5. VERTEX automatically calculates which compartments of each neuron type are in each layer.&lt;/p&gt;
+
+&lt;p&gt;The other connection parameters are specified as before:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(1).synapseType = ...
+  {'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp'};
+ConnectionParams(1).targetCompartments = ...
+  {NeuronParams(1).dendritesID, NeuronParams(2).dendritesID, ...
+   NeuronParams(3).dendritesID, NeuronParams(4).dendritesID, ...
+   NeuronParams(5).dendritesID, NeuronParams(6).dendritesID};
+ConnectionParams(1).weights = {2, 30, 1, 15, 1, 15};
+ConnectionParams(1).tau = {2, 1, 2, 1, 2, 1};
+
+ConnectionParams(1).axonArborSpatialModel = 'gaussian';
+ConnectionParams(1).sliceSynapses = true;
+ConnectionParams(1).axonConductionSpeed = 0.3;
+ConnectionParams(1).synapseReleaseDelay = 0.5;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And now we set the connectivity parameters for the other neuron groups:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ConnectionParams(2).axonArborRadius = [150, 0, 0];
+ConnectionParams(2).axonArborLimit = [300, 0, 0];
+ConnectionParams(2).numConnectionsToAllFromOne = ...
+  {[2000, 0, 0], [200, 0, 0], [0, 20, 0], [0, 50, 0], [15, 0, 50], [0, 0, 10]};
+ConnectionParams(2).synapseType = ...
+  {'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp'};
+ConnectionParams(2).targetCompartments = ...
+  {1, NeuronParams(2).dendritesID, ...
+   1, NeuronParams(4).dendritesID, ...
+   1, NeuronParams(6).dendritesID};
+ConnectionParams(2).weights = {-4, -4, -4, -4, -4, -4};
+ConnectionParams(2).tau = {6, 3, 6, 3, 6, 3};
+ConnectionParams(2).axonArborSpatialModel = 'gaussian';
+ConnectionParams(2).sliceSynapses = true;
+ConnectionParams(2).axonConductionSpeed = 0.3;
+ConnectionParams(2).synapseReleaseDelay = 0.5;
+
+ConnectionParams(3).axonArborRadius = [200, 300, 200];
+ConnectionParams(3).axonArborLimit = [400, 600, 400];
+ConnectionParams(3).numConnectionsToAllFromOne = ...
+  {[50, 0, 0], [5, 0, 0], [0, 500, 0], [0, 100, 0], [0, 10, 40], [0, 0, 5]};
+ConnectionParams(3).synapseType = ...
+  {'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp'};
+ConnectionParams(3).targetCompartments = ...
+  {NeuronParams(1).dendritesID, NeuronParams(2).dendritesID, ...
+   NeuronParams(3).dendritesID, NeuronParams(4).dendritesID, ...
+   NeuronParams(5).dendritesID, NeuronParams(6).dendritesID};
+ConnectionParams(3).weights = {1, 15, 2, 30, 2, 30};
+ConnectionParams(3).tau = {2, 1, 2, 1, 2, 1};
+ConnectionParams(3).axonArborSpatialModel = 'gaussian';
+ConnectionParams(3).sliceSynapses = true;
+ConnectionParams(3).axonConductionSpeed = 0.3;
+ConnectionParams(3).synapseReleaseDelay = 0.5;
+
+ConnectionParams(4).axonArborRadius = [0, 150, 0];
+ConnectionParams(4).axonArborLimit = [0, 300, 0];
+ConnectionParams(4).numConnectionsToAllFromOne = ...
+  {[100, 0, 0], [10, 0, 0], [0, 450, 0], [0, 150, 0], [0, 10, 15], [0, 0, 5]};
+ConnectionParams(4).synapseType = ...
+  {'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp'};
+ConnectionParams(4).targetCompartments = ...
+  {1, NeuronParams(2).dendritesID, ...
+   1, NeuronParams(4).dendritesID, ...
+   1, NeuronParams(6).dendritesID};
+ConnectionParams(4).weights = {-4, -4, -4, -4, -4, -4};
+ConnectionParams(4).tau = {6, 3, 6, 3, 6, 3};
+ConnectionParams(4).axonArborSpatialModel = 'gaussian';
+ConnectionParams(4).sliceSynapses = true;
+ConnectionParams(4).axonConductionSpeed = 0.3;
+ConnectionParams(4).synapseReleaseDelay = 0.5;
+
+ConnectionParams(5).axonArborRadius = [100, 200, 300];
+ConnectionParams(5).axonArborLimit = [200, 400, 600];
+ConnectionParams(5).numConnectionsToAllFromOne = ...
+  {[250, 0, 0], [30, 0, 0], [0, 50, 0], [0, 20, 0], [15, 0, 200], [0, 0, 100]};
+ConnectionParams(5).synapseType = ...
+  {'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp', 'i_exp'};
+ConnectionParams(5).targetCompartments = ...
+  {NeuronParams(1).dendritesID, NeuronParams(2).dendritesID, ...
+   NeuronParams(3).dendritesID, NeuronParams(4).dendritesID, ...
+   NeuronParams(5).dendritesID, NeuronParams(6).dendritesID};
+ConnectionParams(5).weights = {1, 15, 1, 15, 2, 30};
+ConnectionParams(5).tau = {2, 1, 2, 1, 2, 1};
+ConnectionParams(5).axonArborSpatialModel = 'gaussian';
+ConnectionParams(5).sliceSynapses = true;
+ConnectionParams(5).axonConductionSpeed = 0.3;
+ConnectionParams(5).synapseReleaseDelay = 0.5;
+
+ConnectionParams(6).axonArborRadius = [0, 0, 150];
+ConnectionParams(6).axonArborLimit = [0, 0, 300];
+ConnectionParams(6).numConnectionsToAllFromOne = ...
+  {[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 400], [0, 0, 40]};
+ConnectionParams(6).synapseType = {[], [], [], [], 'i_exp', 'i_exp'};
+ConnectionParams(6).targetCompartments = ...
+  {[], [], [], [], NeuronParams(5).dendritesID, NeuronParams(6).dendritesID};
+ConnectionParams(6).weights = {[], [], [], [], -3, -3};
+ConnectionParams(6).tau = {[], [], [], [], 6, 3};
+ConnectionParams(6).axonArborSpatialModel = 'gaussian';
+ConnectionParams(6).sliceSynapses = true;
+ConnectionParams(6).axonConductionSpeed = 0.3;
+ConnectionParams(6).synapseReleaseDelay = 0.5;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The connectivity statistics are influenced by the data in Binzegger et al. 2004, while the weights are set arbitrarily to produce some interesting spiking behaviour in the network (oscillations). Note that when there are no connections between groups (e.g. neurons in group 6 make no connections to neurons in groups 1-4), the relevant cells in the connection parameters are set to be empty matrices.&lt;/p&gt;
+
+&lt;h2 id=&quot;recording-and-simulation-settings&quot;&gt;Recording and simulation settings&lt;/h2&gt;
+
+&lt;p&gt;These are set in the same way as previous tutorials. This time we position the electrodes so as to cover the larger z-depth of the model.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;RecordingSettings.saveDir = '~/VERTEX_results_tutorial_5/';
+RecordingSettings.LFP = true;
+[meaX, meaY, meaZ] = meshgrid(0:500:2000, 200, 700:-100:0);
+RecordingSettings.meaXpositions = meaX;
+RecordingSettings.meaYpositions = meaY;
+RecordingSettings.meaZpositions = meaZ;
+RecordingSettings.minDistToElectrodeTip = 20;
+RecordingSettings.v_m = 250:250:4750;
+RecordingSettings.maxRecTime = 100;
+RecordingSettings.sampleRate = 1000;
+
+SimulationSettings.simulationTime = 500;
+SimulationSettings.timeStep = 0.03125;
+SimulationSettings.parallelSim = false;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;run-simulation-and-load-results&quot;&gt;Run simulation and load results&lt;/h2&gt;
+
+&lt;p&gt;We run the simulation and load results as before. Note that this simulation will take some time, as it contains more than 10,000 spiking neurons.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[params, connections, electrodes] = ...
+  initNetwork(TissueParams, NeuronParams, ConnectionParams, ...
+              RecordingSettings, SimulationSettings);
+
+runSimulation(params, connections, electrodes);
+Results = loadResults(RecordingSettings.saveDir);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;plot-the-results&quot;&gt;Plot the results&lt;/h2&gt;
+
+&lt;p&gt;Using these parameters, we obtain the following spike raster:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;rasterParams.colors = {'k','m','k','m','k','m'};
+rasterParams.groupBoundaryLines = 'c';
+rasterParams.title = 'Tutorial 5 Spike Raster';
+rasterParams.xlabel = 'Time (ms)';
+rasterParams.ylabel = 'Neuron ID';
+rasterParams.figureID = 1;
+rasterFigureImproved = plotSpikeRaster(Results, rasterParams);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/uLLeuP5.png&quot; alt=&quot;Tutorial 5 spikes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The layer 3 pyramidal neurons (black spikes at the top of the raster) spike first, but are quickly silenced by the response of the layer 3 inhibitory neurons. A similar pattern then occurs on layer 5, then layer 4. The layer 5 and layer 4 pyramidal cells recover more rapidly than the layer 3 pyramidals, so recommence spiking sooner. Layer 3 eventually settles into a somewhat unstable oscillatory pattern, while the spiking in layers 4 and 5 appears to be more random.&lt;/p&gt;
+
+&lt;p&gt;If we plot the LFP at the top left and top right electrodes (at positions [0,200,700] and [2000,200,700 respectively] we observe the following LFPs:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;figure(2)
+plot(Results.LFP(1,:), 'b', 'LineWidth', 2);
+hold on;
+plot(Results.LFP(33,:), 'r', 'LineWidth', 2);
+set(gcf,'color','w');
+set(gca, 'FontSize', 16);
+title('Tutorial 5: LFP at top-left &amp;amp; top-right electrodes', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qSzCJQi.png&quot; alt=&quot;Tutorial 5 LFP 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And plotting the LFP at the top and bottom (z-axis), central (x-axis) electrodes, we can see the phase inversion between these two points, as well as the larger signal at the centre of the model compared with at the edges:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;plot(Results.LFP(17,:), 'c', 'LineWidth', 2);
+plot(Results.LFP(24,:), 'm', 'LineWidth', 2);
+axis([100 500 -0.1 0.1]) % only plot from 100 ms to remove large initial spike
+set(gcf,'color','w');
+set(gca, 'FontSize', 16);
+title('Tutorial 5: LFP at 4 electrode positions', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+ylabel('LFP (mV)', 'FontSize', 16)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/bSY3AD8.png&quot; alt=&quot;Tutorial 5 LFP 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that much of the high frequency content in these plots comes from the spiking mechanism of the neurons, which is not physiologically realistic. Therefore we would recommend rerunning the simulation with the spike loading functionality introduced in tutorial 3 and purely passive neurons to remove this unrealistic contribution to the LFP before performing more in-depth LFP analyses.&lt;/p&gt;
+
+&lt;p&gt;Finally let’s check the mean firing rate of each neuron group using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;groupRates()&lt;/code&gt; function. We will ask for the rates to be calculated from 100 ms to 500 ms, so that spikes in the initial model population spike are not counted.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;firingRates = groupRates(Results, 100, 500);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Mean firing rate for each group over the interval 100-500ms:
+Group 1: 3.0481 Hz
+Group 2: 18.3744 Hz
+Group 3: 3.1571 Hz
+Group 4: 1.3149 Hz
+Group 5: 3.2812 Hz
+Group 6: 24.399 Hz
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you have experienced any problems when trying to run this tutorial, or if you have any suggestions for improvements, please contact us using the &lt;a href=&quot;http://vertexsimulator.org/contact/&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Binzegger T, Douglas RJ, Martin KAC (2004) A quantitative map of the circuit of cat primary visual cortex. J Neurosci 24(39):8441?8453&lt;/p&gt;
+
+&lt;p&gt;Tomsett RJ, Ainsworth M, Thiele A, Sanayei M, Chen X et al. (2014) Virtual Electrode Recording Tool for EXtracellular potentials (VERTEX): comparing multi-electrode recordings from simulated and biological mammalian cortical tissue, Brain Structure and Function. doi:10.1007/s00429-014-0793-x&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2013b&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this tutorial we will create a model arranged into several cortical layers. The model represents a simplified neocortical circuit containing cortical layers 3, 4 and 5. Note that this tutorial may take some time to run as it implements a model containing more than 10,000 neurons.</summary></entry><entry><title type="html">Tutorial 6: Controlling random number generation</title><link href="/tutorial-6/" rel="alternate" type="text/html" title="Tutorial 6: Controlling random number generation" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial6</id><content type="html" xml:base="/tutorial-6/">&lt;p&gt;In this tutorial, we will show how to set and reset the random number generator seed. This is important for generating reproducible results from simulations. For more information on random number generation in Matlab, see the &lt;a href=&quot;https://www.mathworks.com/help/matlab/random-number-generation.html&quot;&gt;MathWorks documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Random number generation: default behaviour&lt;/li&gt;
+  &lt;li&gt;Changing the random seed&lt;/li&gt;
+  &lt;li&gt;Parallel random seeds &amp;amp; reproducibility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;random-number-generation-default-behaviour&quot;&gt;Random number generation: default behaviour&lt;/h2&gt;
+
+&lt;p&gt;VERTEX uses Matlab’s default random number generation functions for its random numbers. In serial mode this is quite simple: when initNetwork() is called, it will seed the random number generator using the value provided by the user in the SimulationSettings structure, or a default seed value if a user-defined seed is not given (the default seed is 123). If you have compiled the multiSynapse.cpp file to a mex file (see Tutorial 0) and are running the tutorials in serial mode, you should have been getting the same output graphs as given on the tutorial web pages.&lt;/p&gt;
+
+&lt;h2 id=&quot;changing-the-random-seed&quot;&gt;Changing the random seed&lt;/h2&gt;
+
+&lt;p&gt;To set the random seed to a different value at the start of your simulation, you simply specify the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;randomSeed&lt;/code&gt; field in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SimulationSettings&lt;/code&gt; structure:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SimulationSettings.randomSeed = 12345;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You may want to reset the random seed after the network has been generated: for example, if you want to perform multiple simulation runs using the same network but with different random inputs. To reset the random seed, you can call the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;resetRandomSeed()&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;resetRandomSeed(98765);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you do not specify a seed and just call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;resetRandomSeed()&lt;/code&gt;, then the random seed will be reset to VERTEX’s default seed (123). Note that if you call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;resetRandomSeed()&lt;/code&gt; but then call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;initNetwork()&lt;/code&gt;, then the network initialisation will automatically set the random seed again to the default value or the value specified in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SimulationSettings&lt;/code&gt; structure. If you want to generate a different network structure, you must control the random number seed by specifying different &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;randomSeed&lt;/code&gt; value in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SimulationSettings&lt;/code&gt; structure.&lt;/p&gt;
+
+&lt;h2 id=&quot;parallel-random-seeds--reproducibility&quot;&gt;Parallel random seeds &amp;amp; reproducibility&lt;/h2&gt;
+
+&lt;p&gt;VERTEX makes use of the Matlab Parallel Programming Toolbox’s parallel random number generation capabilities. These allow independent streams of random numbers to be generated by each lab, initialised by a single seed. This allows for reproducibility when running with the same number of labs, but unfortunately not when the number of labs changes. To emphasise this, the number of labs in use is automatically added to the default or user-provided random seed to emphasise that the number of labs in use will also affect the random number generation. This current limitation of VERTEX may be improved upon in future releases to allow truly reproducible random number generation independent of the number of labs used.&lt;/p&gt;
+
+&lt;p&gt;Setting the initial random seed, and the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;resetRandomSeed()&lt;/code&gt; function, work in the same way for both serial and parallel simulations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2013b&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this tutorial, we will show how to set and reset the random number generator seed. This is important for generating reproducible results from simulations. For more information on random number generation in Matlab, see the MathWorks documentation.</summary></entry><entry><title type="html">Tutorial 7: Visualising neurons and networks</title><link href="/tutorial-7/" rel="alternate" type="text/html" title="Tutorial 7: Visualising neurons and networks" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial7</id><content type="html" xml:base="/tutorial-7/">&lt;p&gt;In this tutorial we will use some of VERTEX’s visualisation functions to inspect the network that we generate. We’re going to use the same model as in tutorial 5: 6 neuron groups (3 excitatory and 3 inhibitory) arranged into 3 layers (though this time, as we aren’t going to simulate dynamics, we have set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SimulationSettings.LFP&lt;/code&gt; to false so that VERTEX doesn’t calculate line-source constants during initialisation).&lt;/p&gt;
+
+&lt;p&gt;Contents&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Model parameters&lt;/li&gt;
+  &lt;li&gt;Viewing the neuron morphologies&lt;/li&gt;
+  &lt;li&gt;Generate the network&lt;/li&gt;
+  &lt;li&gt;Plotting neuron positions&lt;/li&gt;
+  &lt;li&gt;Analysing connectivity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;model-parameters&quot;&gt;Model parameters&lt;/h2&gt;
+&lt;p&gt;We have stored the parameters for this model in a Matlab script called tutorial_7_params.m, so first we will load this script:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tutorial_7_params;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;viewing-the-neuron-morphologies&quot;&gt;Viewing the neuron morphologies&lt;/h2&gt;
+
+&lt;p&gt;VERTEX includes a function to plot a basic visualisation of the neuron morphologies specified in the neuron parameter structure. This is useful to check if you have made any mistakes when specifying your neuron’s mophology. The function is called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;viewMorphology()&lt;/code&gt;, and we give it as input the neuron structure that we want to plot. So to plot the shape of neurons in group 1, we do:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;viewMorphology(NeuronParams(1));
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/n0hDWWp.png&quot; alt=&quot;Tutorial 7 neuron group 1 morphology&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;viewMorphology() returns a figure handle in case you want to access the figure later on:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;neuron2Plot = viewMorphology(NeuronParams(2));
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ur8ekJY.png&quot; alt=&quot;Tutorial 7 neuron group 2 morphology&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The plots are 3D, so you can spin and rotate them to check the morphology is correct.&lt;/p&gt;
+
+&lt;h2 id=&quot;generate-the-network&quot;&gt;Generate the network&lt;/h2&gt;
+
+&lt;p&gt;Having checked our neuron morphologies, we are ready to generate our network:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[params, connections, electrodes] = ...
+  initNetwork(TissueParams, NeuronParams, ConnectionParams, ...
+              RecordingSettings, SimulationSettings);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;plotting-neuron-positions&quot;&gt;Plotting neuron positions&lt;/h2&gt;
+
+&lt;p&gt;Now we’ve initialised the model, we want to check that VERTEX has positioned our neuron groups correctly. We can plot the locations of the neurons’ somas using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;plotSomaPositions()&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;plotSomaPositions(params.TissueParams);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/4YcvMZG.png&quot; alt=&quot;Tutorial 7 plot of soma positions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This plot isn’t very helpful at all: it’s too dense and we can’t identify neurons in different groups! &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;plotSomaPositions()&lt;/code&gt; can take a second input, which is a structure specifying some options for the plot.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;N = params.TissueParams.N;
+pars.toPlot = N/400:N/400:N;
+pars.markers = {'^', 'o', '^', 'o', '^', 'o'};
+pars.colors = {'m', 'k', ...
+               [.7, 0, .7], [.35, .35, .35], ...
+               [.4, 0, .4], [.7, .7, .7]};
+pars.figureID = 4;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;toPlot&lt;/code&gt; lists the IDs of the neurons we want to plot. Here we are going to plot a subset of 400 neurons, covering all the neuron groups. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;markers&lt;/code&gt; tells &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;plotSomaPositions()&lt;/code&gt; which marker types to use for each neuron group. We’re going to plot pyramidal cell somas as triangles and interneuron cell somas as circles. colors lists the colours to use to plot the neuron groups in; we have used different colours for each so we can distinguish between them more easily. Finally, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;figureID&lt;/code&gt; sets the figure number. Let’s now call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;plotSomaPositions()&lt;/code&gt; again, this time storing the figure handle it returns:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;somaPlot = plotSomaPositions(params.TissueParams, pars);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/eQmlrpf.png&quot; alt=&quot;Tutorial 7 improved soma position plot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This plot reveals that the neuron groups are positioned in their correct layers in the model. It is also a 3D plot so you can rotate and view it from any angle.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysing-connectivity&quot;&gt;Analysing connectivity&lt;/h2&gt;
+&lt;p&gt;Finally we would like to know about the connectivity in the model. VERTEX provides two functions to help with this. The first is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;getSparseConnectivity()&lt;/code&gt;, which returns a sparse matrix listing every neuron’s connections (rows are presynaptic neurons, with each row containing a list of target neuron IDs):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sparseConnectivity = getSparseConnectivity(params, connections);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can use this sparse matrix to calculate further statistics about the connectivity in the model. However, it can be quite difficult to visualise this data. We therefore also provide the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;getGroupConnectivity()&lt;/code&gt; function. This returns the total number of connections per group, the group convergent connectivity (i.e. how many connections, on average, one neuron in the group receives from all neurons in all other groups) and the group divergent connectivity (i.e. how many connections, on average, one neuron in the group makes to all neurons in all other groups).&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;getGroupConnectivity()&lt;/code&gt; can either be given a sparse connectivity matrix calculated by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;getSparseConnectivity()&lt;/code&gt;, or the raw connection data calculated by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;initNetwork()&lt;/code&gt; (in which case it runs &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;getSparseConnectivity()&lt;/code&gt; first). As we have already calculated the sparse connectivity, we will use this as this input:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[total, convergent, divergent] = ...
+  getGroupConnectivity(params, sparseConnectivity);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that both of these functions will work in both serial and parallel mode.&lt;/p&gt;
+
+&lt;p&gt;We can now plot this information however we like; for example as a connectivity heat map:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;figure;
+imagesc(convergent); % plot convergent connectivity
+colormap hot;
+colorbar('EastOutside');
+set(gcf,'color','w');
+set(gca,'FontSize',16);
+title('Tutorial 7: convergent connectivity', 'FontSize', 16);
+xlabel('Presynaptic groups', 'FontSize', 16);
+ylabel('Postsynaptic groups', 'FontSize', 16);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/eovofyI.png&quot; alt=&quot;Tutorial 7 group convergent connectivity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have experienced any problems when trying to run this tutorial, or if you have any suggestions for improvements, please contact us using the &lt;a href=&quot;http://vertexsimulator.org/contact/&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2013b&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this tutorial we will use some of VERTEX’s visualisation functions to inspect the network that we generate. We’re going to use the same model as in tutorial 5: 6 neuron groups (3 excitatory and 3 inhibitory) arranged into 3 layers (though this time, as we aren’t going to simulate dynamics, we have set SimulationSettings.LFP to false so that VERTEX doesn’t calculate line-source constants during initialisation).</summary></entry><entry><title type="html">Tutorial 8: Testing neuron models</title><link href="/tutorial-8/" rel="alternate" type="text/html" title="Tutorial 8: Testing neuron models" /><published>2021-01-06T00:00:00-06:00</published><updated>2021-01-06T00:00:00-06:00</updated><id>/Tutorial8</id><content type="html" xml:base="/tutorial-8/">&lt;p&gt;In this tutorial we will use VERTEX’s neuronDynamics() function to investigate the dynamics of individual neuron models prior to network simulation. This function simulates the dynamics of a single neuron in response to input from one of VERTEX’s input current/conductance types so that you can check the neuron model’s response to this input.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;doc:2021-06-01-Tutorial8#section-neuron-parameters&quot;&gt;Neuron parameters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;doc:2021-06-01-Tutorial8#section-extra-parameters&quot;&gt;Extra parameters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;doc:2021-06-01-Tutorial8#section-run-the-simulation&quot;&gt;Run the simulation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;doc:2021-06-01-Tutorial8#section-plot-the-results&quot;&gt;Plot the results&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;neuron-parameters&quot;&gt;Neuron parameters&lt;/h2&gt;
+
+&lt;p&gt;As in previous tutorials, we will use the adaptive exponential (AdEx) model (Brette &amp;amp; Gerstner 2005), this time with one dendritic compartment.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams.neuronModel = 'adex';
+NeuronParams.V_t = -50;
+NeuronParams.delta_t = 2;
+NeuronParams.a = 2;
+NeuronParams.tau_w = 75;
+NeuronParams.b = 150;
+NeuronParams.v_reset = -65;
+NeuronParams.v_cutoff = -45;
+NeuronParams.numCompartments = 2;
+NeuronParams.compartmentParentArr = [0, 1];
+NeuronParams.compartmentLengthArr = [30, 350];
+NeuronParams.compartmentDiameterArr = [30, 2];
+NeuronParams.compartmentXPositionMat = [0, 0; 0, 0];
+NeuronParams.compartmentYPositionMat = [0, 0; 0, 0];
+NeuronParams.compartmentZPositionMat = [ -30, 0; 0, 350];
+NeuronParams.C = 3;
+NeuronParams.R_M = 6700;
+NeuronParams.R_A = 150;
+NeuronParams.E_leak = -70;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;We will use a step current input to test out the dynamics of this neuron model. The parameters of the step current are amplitude in picoAmps, timeOn – the time the current is switched on in ms, and timeOff – the time the current is switched off in ms. Here we use an array for the amplitude parameter. neuronDynamics simulates one neuron per input value so that multiple input values can be tested simultaneously.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NeuronParams.Input.inputType = 'i_step';
+NeuronParams.Input.amplitude = [150; 200; 250; 300; 350];
+NeuronParams.Input.timeOn = 50;
+NeuronParams.Input.timeOff = 350;
+NeuronParams.Input.compartmentsInput = 1;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;extra-parameters&quot;&gt;Extra parameters&lt;/h2&gt;
+
+&lt;p&gt;We need to create another parameter struct to tell neuronDynamics the simulation time step to use and how long to run the simulation for:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SimulationParams.timeStep = 0.03125;
+SimulationParams.simulationTime = 400;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;run-the-simulation&quot;&gt;Run the simulation&lt;/h2&gt;
+
+&lt;p&gt;We are now ready to run the simulation…&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[v_m, I_input] = neuronDynamics(NeuronParams, SimulationParams);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;plot-the-results&quot;&gt;Plot the results&lt;/h2&gt;
+
+&lt;p&gt;… and plot the results. Note that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;v_m&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;I_input&lt;/code&gt; are 3-dimensional matrices. The first dimension holds the individual neurons, the second dimension the neuron compartments, and the third dimension the samplesbover time. So to plot the soma membrane potentials of all the neurons, we can do:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;step = SimulationParams.timeStep;
+time = step:step:SimulationParams.simulationTime;
+figure(1);
+plot(time, squeeze(v_m(:,1,:))', 'linewidth', 2);
+set(gca, 'FontSize', 16);
+title('Tutorial 8: neuronDynamics()', 'FontSize', 16)
+ylabel('Membrane potential (mV)', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+axis([0 SimulationParams.simulationTime -85 -40]);
+set(gcf, 'color', 'w');
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/5GrMEmb.png&quot; alt=&quot;tutorial_8_01&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To plot the dendrite (2nd) compartment membrane potentials of neurons 1:3 along with the soma input currents, we can do:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;figure(2);
+subplot(211);
+plot(time, squeeze(v_m(1:3,2,:))', 'linewidth', 2);
+set(gca, 'FontSize', 16);
+title('Tutorial 8: neuronDynamics()', 'FontSize', 16)
+ylabel('Membrane potential (mV)', 'FontSize', 16)
+xlabel('Time (ms)', 'FontSize', 16)
+axis([0 SimulationParams.simulationTime -85 -40]);
+
+subplot(212);
+plot(time, squeeze(I_input(1:3,1,:))', 'linewidth', 2);
+set(gca, 'FontSize', 16);
+ylabel('Input current (pA)', 'FontSize', 16)
+axis([0 SimulationParams.simulationTime -10 380]);
+set(gcf, 'color', 'w');
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/xzqpV93.png&quot; alt=&quot;tutorial_8_02&quot; /&gt;
+If you have experienced any problems when trying to run this tutorial, or if you have any suggestions for improvements, please email Richard Tomsett: r at autap dot se&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.mathworks.com/products/matlab.html&quot;&gt;Published with MATLAB® R2013b&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this tutorial we will use VERTEX’s neuronDynamics() function to investigate the dynamics of individual neuron models prior to network simulation. This function simulates the dynamics of a single neuron in response to input from one of VERTEX’s input current/conductance types so that you can check the neuron model’s response to this input.</summary></entry></feed>
