@@ -1,7 +1,0 @@
----
-layout: page
-title: "Papers"
-permalink: /papers/
----
-
-[Tomsett et al. (2014)](http://vertexsimulator.org/tomsett-et-al-2014/)
