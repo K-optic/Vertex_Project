@@ -52,5 +52,5 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  posts:
+    posts:
     output: true
