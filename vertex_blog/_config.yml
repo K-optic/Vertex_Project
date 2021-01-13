@@ -51,4 +51,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-show_excerpts: true
+collections:
+  posts:
+    output: true
