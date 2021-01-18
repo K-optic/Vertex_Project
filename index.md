@@ -3,6 +3,16 @@ layout: page
 title: "VERTEX Home"
 
 ---
+## Site Navigation
+* [Home](https://k-optic.github.io/Vertex_Project/home/)
+* [Download](http://vertexsimulator.org/downloads/)
+* [Tutorials](https://k-optic.github.io/Vertex_Project/tutorials/)
+* [Papers](https://k-optic.github.io/Vertex_Project/papers/)
+* [FAQ](https://k-optic.github.io/Vertex_Project/faq/)
+* [Discussion](https://groups.google.com/g/vertexsupport)
+* [Contact](http://vertexsimulator.org/contact/)
+* [Lab](https://www.dynamic-connectome.org/)
+
 
 VERTEX Home
 Browse: Home
