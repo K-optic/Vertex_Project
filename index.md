@@ -14,7 +14,7 @@ title: "VERTEX Home"
 * [Lab](https://www.dynamic-connectome.org/)
 
 
-VERTEX Home
+## VERTEX Home
 Browse: Home
 The Virtual Electrode Recording Tool for EXtracellular potentials (VERTEX) is a Matlab tool for simulating extracellular potential recordings in spiking neural network (SNN) models. It uses the forward modelling approach described previously in [1] to calculate extracellular potentials in a model given the position of the neurons relative to the virtual electrodes.
 
